@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 6.3.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/hexo/images/MedCY32x32.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/hexo/images/MedCY32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/hexo/images/MedCY32x32.png">
+  <link rel="mask-icon" href="/hexo/images/MedCY32x32.png" color="#222">
+
+<link rel="stylesheet" href="/hexo/css/main.css">
+
+
+<link rel="stylesheet" href="/hexo/lib/font-awesome/css/all.min.css">
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"altis5526.github.io","root":"/hexo/","scheme":"Mist","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="本文純為學術分享，內文圖片皆來自原始論文(封面圖片：Photo by Pietro Jeng on Unsplash ) Chen, T., Kornblith, S., Norouzi, M., &amp; Hinton, G. (2020, November). A simple framework for contrastive learning of visual representa">
+<meta property="og:type" content="article">
+<meta property="og:title" content="SimCLR">
+<meta property="og:url" content="http://altis5526.github.io/hexo/2021/11/27/simclr/index.html">
+<meta property="og:site_name" content="MedCY 菜鳥醫學生的隨想隨寫">
+<meta property="og:description" content="本文純為學術分享，內文圖片皆來自原始論文(封面圖片：Photo by Pietro Jeng on Unsplash ) Chen, T., Kornblith, S., Norouzi, M., &amp; Hinton, G. (2020, November). A simple framework for contrastive learning of visual representa">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://i.imgur.com/1mfXZ7M.jpg">
+<meta property="og:image" content="https://i.imgur.com/wfWOUpP.png">
+<meta property="og:image" content="https://i.imgur.com/GbV1784.png">
+<meta property="og:image" content="https://i.imgur.com/ACev4yW.png">
+<meta property="og:image" content="https://i.imgur.com/gjuirvp.png">
+<meta property="og:image" content="https://i.imgur.com/JoOIiod.png">
+<meta property="og:image" content="https://i.imgur.com/jYoeZGk.png">
+<meta property="article:published_time" content="2021-11-27T22:22:09.000Z">
+<meta property="article:modified_time" content="2023-06-03T08:06:57.898Z">
+<meta property="article:author" content="MedCY">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://i.imgur.com/1mfXZ7M.jpg">
+
+<link rel="canonical" href="http://altis5526.github.io/hexo/2021/11/27/simclr/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'en'
+  };
+</script>
+
+  <title>SimCLR | MedCY 菜鳥醫學生的隨想隨寫</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/hexo/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">MedCY 菜鳥醫學生的隨想隨寫</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/hexo/" rel="section"><i class="fa fa-home fa-fw"></i>Home</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/hexo/about/" rel="section"><i class="fa fa-user fa-fw"></i>About</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/hexo/categories/" rel="section"><i class="fa fa-th fa-fw"></i>Categories</a>
+
+  </li>
+  </ul>
+</nav>
+
+
+
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="en">
+    <link itemprop="mainEntityOfPage" href="http://altis5526.github.io/hexo/2021/11/27/simclr/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/hexo/images/avatar.gif">
+      <meta itemprop="name" content="MedCY">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="MedCY 菜鳥醫學生的隨想隨寫">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          SimCLR
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+
+              <time title="Created: 2021-11-27 22:22:09" itemprop="dateCreated datePublished" datetime="2021-11-27T22:22:09+00:00">2021-11-27</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2023-06-03 08:06:57" itemprop="dateModified" datetime="2023-06-03T08:06:57+00:00">2023-06-03</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/hexo/categories/ML-DL%E5%AD%B8%E7%BF%92/" itemprop="url" rel="index"><span itemprop="name">ML/DL學習</span></a>
+                </span>
+            </span>
+
+          
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <img src="https://i.imgur.com/1mfXZ7M.jpg" class="center">
+
+<p><strong><em>本文純為學術分享，內文圖片皆來自原始論文(封面圖片：Photo by <a target="_blank" rel="noopener" href="https://unsplash.com/@pietrozj?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pietro Jeng</a> on <a target="_blank" rel="noopener" href="https://unsplash.com/s/photos/deep-learning?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> )</em></strong></p>
+<p><strong><em>Chen, T., Kornblith, S., Norouzi, M., &amp; Hinton, G. (2020, November). A simple framework for contrastive learning of visual representations. In International conference on machine learning (pp. 1597-1607). PMLR.。<a target="_blank" rel="noopener" href="https://arxiv.org/abs/2002.05709">https://arxiv.org/abs/2002.05709</a></em></strong></p>
+<p>要如何真正學習到image representation並達到task agnostic的模型，是當前一個頗熱門的研究主題，這篇論文雖然有點久遠，是2020年中的一篇文章，但是當初提到的基本概念，到現在已經發展成了像當紅的CLIP(Contrastive Language-Image Pretraining)，因此我想說也可以來review一下這篇目前google scholar引用次數已經來到2600多次的文章：A Simple Framework for Contrastive Learning of Visual Representation. 不過這篇的主要目的依然是筆記，因此關於更多詳細的內容，還是請讀者回去翻翻原始論文喔(傳送門：<a target="_blank" rel="noopener" href="https://arxiv.org/abs/2002.05709" title="https://arxiv.org/abs/2002.05709">https://arxiv.org/abs/2002.05709</a>)~</p>
+<span id="more"></span>
+
+<h2 id="Method"><a href="#Method" class="headerlink" title="Method"></a>Method</h2><p>簡單來說，作者實現學習visual representation的作法，是利用unsupervised learning的方式，加上contrastive loss的概念，讓模型自動學會哪些representation是屬於同一類的，並將這樣的學習結果帶到不同類型的task上面，得到一個好的pre-train model。至於細節的部分，還是先讓我們看看論文裡面的framework架構：</p>
+<p><img src="https://i.imgur.com/wfWOUpP.png"></p>
+<p>首先一個x代表一張圖片，每張圖片都會通過兩個不同的data augmentation的function(這裡用t和t’表示)，得到xi和xj，為了接下來解說方便，我們先考慮左邊xi的那條branch，右邊xj基本上是同樣的概念。於是xi又會經過ResNet(這裡可以直接把這層ResNet當作一層encoder)，在通過average pooling之後，進入到FC之前，我們直接把feature vector(hi)取出來過一個network projection head(g(.))，把hi project到contrastive learning的latent space。這個g(.)包含了兩層的weight中間夾一個ReLU activation，相當於一個2-layer MLP，最後得到zi。同理經過右邊的branch我們也可以得到另一種data augmentation生成的zj。緊接著就是重頭戲了，我們要利用zi和zj去計算他們的contrastive loss。作者這邊用的loss function概念應該就是常見contrastive loss的function，作者把它叫做NT-Xent，我們可以直接看算式說故事：</p>
+<p><img src="https://i.imgur.com/GbV1784.png"></p>
+<p>NT-Xent的目的，是要讓同一張圖片生成的zi和zj愈相似，其他的不相干的圖片拉得愈遠愈好。所以可以看到分子是同一張圖片zi和zj的cosine similarity，分母則是zi和任一張不同來源圖片的zk的cosine similarity，由於log前面是負號，minimize loss function的結果會讓分子愈來愈大，分母愈來愈小，達到”同一張圖片生成的zi和zj愈接近，其他的不相干的圖片拉得愈遠愈好”的訓練效果。其中一個小細節是分母的大寫1代表一個indicator vector，在k不等於i的時候才會等於1，所以zi本人不會跟自己算cosine similarity啦(廢話)。而r代表temperature parameter(就只是normalization的一個參數)，論文裡看起來應該是fixed的而不是learnable的。</p>
+<p>更細節的部份我們可以觀賞論文裡的pseudo code，看完這裡應該就可以完整了解整個模型的架構了：</p>
+<p><img src="https://i.imgur.com/ACev4yW.png"></p>
+<p>總之我們可以先把training data切成未知個N size的 batch，每個batch裡1<del>N的圖片都給他做兩種不同的data augmentation，得到z2k-1和z2k，而這裡的si,j就是cosine silmilarity。接著實際上的loss function定義為大L那條式子，除了考慮l(2k-1, 2k)，也要考慮l(2k, 2k-1)，因為單用小l的loss在分母那邊會少考慮到反向的結果。最後return的是f(.)以前的encoder架構，g(.)只是用來pre-train訓練，在實際應用的時候不會用到</del>(作者針對這樣的做法有做詳細的實驗，待會會提)</p>
+<p>好啦到這裡應該就已經大致講完整個架構了，接下來就是一些對於architecture的實驗和testing的結果。</p>
+<h2 id="Discussion-amp-Results"><a href="#Discussion-amp-Results" class="headerlink" title="Discussion &amp; Results"></a>Discussion &amp; Results</h2><p>首先我們剛剛都沒有講說作者使用了哪些data augmentation，作者實驗了Crop, filp, Cutout, Color distort, Rotate, Gaussian noise, Gaussian blue等方式， 並將實驗後得到的feature network(也就是f(.)以前的架構)，在ImageNet dataset上做linear probe，實驗結果會發現，單用一種類的data augmentation效果並不是很好。可見下圖：</p>
+<p><img src="https://i.imgur.com/gjuirvp.png"></p>
+<p>作者舉了一個例子，如果data augmentation同樣都用crop可能就會出現嚴重的問題，如果畫出一張圖片pixel intensities histogram，就會發現即使random crop一張圖片的不同區域，得到的pixel intensities分布也會幾乎一樣，於是data augmentation是沒有效果的，所以才需要兩種modalities以上的augmentation。而最後作者挑選了三種augmentation方式：random crop(with flip and resize), color distortion和Gaussian blur。</p>
+<p><img src="https://i.imgur.com/JoOIiod.png"></p>
+<p>第二，作者實驗了256~8192的batch size，發現 large batch size因為增加了單一batch當中negative pairs的數量，所以會提升model在top-1 accuracy的表現，這樣的現象在supervised learning就不會特別明顯。</p>
+<p>第三，也是我認為滿重要的地方，是projection head的作用，以及為甚麼要丟掉g(.)學到的訊息。作者提到，如果比較projection head之前得到的h&#x3D;f(t)，和加上projection head後得到的z&#x3D;g(h)，兩者拿去做linear probe，前者的accuracy比後者高很多。作者提出的假說是，projection head會造成information loss，尤其是那些data transformation的資訊，所以不能拿z&#x3D;g(h)去做linear probe。於是，作者就把h和g(h)直接拿出來做training來predict各張圖片做過甚麼transformation以驗證自己的假說，實驗結果真的發現g(h)學習出來的效果較差。不過我感覺這是一個值得研究的問題，比如說搞不好projection head丟失的不只有data transformation的資訊，有沒有別的方法可以設計這個projection head，感覺都是可以再考慮的地方。</p>
+<p>最後還有一些testing的結果沒有看到，總之作者在ILSVRC-12上面做了semi-supervised learning(sample 1%和10%的labeled dataset做training)的實驗，結果SimCLR超越了SOTA的accuracy，另外如果用整個ImageNet的dataset fine-tuned在ResNet上面，不僅沒有catastrophic forgetting的問題(作者應該是沒有做regularization)，更outperform了SOTA的效果(SOTA可是直接train from scratch)，這個結果也是滿有趣的。</p>
+<p>同時作者也在其他12個dataset上做transfer learning，採用了linear probe和fine-tuning兩種方法，SimCLR的表現如下表，其實表現得都滿不錯的</p>
+<p><img src="https://i.imgur.com/jYoeZGk.png"></p>
+<p>感謝大家看到這裡，我其實省略了很多細節和實驗結果，主要還是希望可以把重點抓出來，也讓自己的思緒更清晰。希望有興趣的人會喜歡~~</p>
+<h2 id="參考資料"><a href="#參考資料" class="headerlink" title="參考資料"></a>參考資料</h2><ol>
+<li>Chen, T., Kornblith, S., Norouzi, M., &amp; Hinton, G. (2020, November). A simple framework for contrastive learning of visual representations. In <em>International conference on machine learning</em> (pp. 1597-1607). PMLR.</li>
+</ol>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/hexo/2020/08/21/%E4%BB%80%E9%BA%BC%E7%90%83%E8%B7%AF%E3%80%81%E7%90%83%E9%80%9F%E6%9C%83%E8%AE%93%E6%8A%95%E6%89%8B%E6%AD%A5%E5%85%A5tommy-john%E6%89%8B%E8%A1%93%EF%BC%9F%E6%89%8B%E8%A1%93%E5%BE%8C%E7%9A%84%E7%90%83/" rel="prev" title="什麼球路、球速會讓投手步入Tommy John手術？手術後的球威一定會下降嗎？">
+      <i class="fa fa-chevron-left"></i> 什麼球路、球速會讓投手步入Tommy John手術？手術後的球威一定會下降嗎？
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/hexo/2021/12/05/alphapose-%E5%8E%9F%E7%90%86%EF%BC%9Armperegional-multi-person-pose-estimation/" rel="next" title="Alphapose 原理：RMPE(Regional Multi-Person Pose Estimation)">
+      Alphapose 原理：RMPE(Regional Multi-Person Pose Estimation) <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Method"><span class="nav-number">1.</span> <span class="nav-text">Method</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Discussion-amp-Results"><span class="nav-number">2.</span> <span class="nav-text">Discussion &amp; Results</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%8F%83%E8%80%83%E8%B3%87%E6%96%99"><span class="nav-number">3.</span> <span class="nav-text">參考資料</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+  <p class="site-author-name" itemprop="name">MedCY</p>
+  <div class="site-description" itemprop="description"></div>
+</div>
+
+
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 
+  <span itemprop="copyrightYear">2023</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">MedCY</span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://mist.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Mist</a>
+  </div>
+
+        
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/hexo/lib/anime.min.js"></script>
+  <script src="/hexo/lib/velocity/velocity.min.js"></script>
+  <script src="/hexo/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/hexo/js/utils.js"></script>
+
+<script src="/hexo/js/motion.js"></script>
+
+
+<script src="/hexo/js/schemes/muse.js"></script>
+
+
+<script src="/hexo/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+</body>
+</html>
