@@ -9,45 +9,19 @@ date: 2019-09-05 23:58:34
 
 今年33歲的Carlos Santana，一直以來都以**精準的選球眼**著稱，若從2010他首度登上大聯盟的那年算起至今，他的**被保送率排名全大聯盟第6**，甚至比打擊神獸Mike Trout還高了一個名次。他也算是一個不錯的強打者，每年的全壘打數平均有20支以上，在今年之前的生涯wRC+是121的高水準。可是，今年從費城人回鍋老東家印地安人後，他的成績完全又提升了一個檔次。去年以前生涯打擊率只有0.247的Carlos Santana，**今年的打擊率飆升到0.294**，是逼近三成的水準，加上他又維**持一貫的本壘板紀律，使得他的上壘率來到了排行全大聯盟第4名的0.414**，而且目前為止已經敲出了31支全壘打的他，**wRC+更是高達148**！
 
+![](https://i.imgur.com/WcIilF6.jpg)
+
 <!-- more -->
 
-Carlos Santana今年打擊數據與過去歷年比較
+<ins>Carlos Santana今年打擊數據與過去歷年比較</ins>
 
-數據
-
-打擊率
-
-上壘率
-
-長打率
-
-wRC+
-
-2010~2018
-
-0.247
-
-0.363
-
-0.442
-
-121
-
-**2019**
-
-**0.294**
-
-**0.414**
-
-**0.549**
-
-**148**
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>數據</td><td>打擊率</td><td>上壘率</td><td>長打率</td><td>wRC+</td></tr><tr><td>2010~2018</td><td>0.247</td><td>0.363</td><td>0.442</td><td>121</td></tr><tr><td><strong>2019</strong></td><td><strong>0.294</strong></td><td><strong>0.414</strong></td><td><strong>0.549</strong></td><td><strong>148</strong></td></tr></tbody></table></figure>
 
 **把球往地上打？**
 
 如果比較一下Carlos Santana今年和過去的擊球仰角，會發現到**今年Carlos Santana的擊球仰角是自從2015年來最低的11度**(Statcast系統是2015才開始啟用，所以只能從2015開始統計)，這個數字其實也略低於今年全大聯盟的平均擊球仰角12度。這個數據告訴了我們，**Carlos Santana今年特別喜歡把球往地面下打**，從擊球型態上也可以呼應這點：
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-1-1.png)
+![](https://i.imgur.com/wEf5HS5.png)
 
 從上圖中可以看出，今年**Carlos Santana的滾地球比率(藍色線)是生涯最高的46%，這個數字比全大聯盟的平均高出許多**，而飛球比率(黃色線)也有顯著的下降趨勢，那麼，這樣的調整對Carlos Santana的成績有什麼幫助嗎？
 
@@ -55,33 +29,12 @@ wRC+
 
 在今年之前，Carlos Santana每年的內野高飛球率幾乎都高出全聯盟很多，但是**今年他的內野高飛球率大幅下修，降到比聯盟平均還低的水準。**
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-2-2.png)
+![](https://i.imgur.com/TBSllwo.png)
 
 我們再來看另一項數據，MLB Savant的資料庫中，根據擊球仰角和擊球初速，分出了六種不同的擊球品質：Barrel(扎實擊球)、Solid Contact(強力擊球)、Flares/Burners(筆者詞窮了，總之也是強勁的擊球XD)、Poorly/Under(打到球的下緣)、Poorly/Topped(打到球的上緣)、Poorly/Weak(軟弱擊球)。我們分析今年Carlos Santana擊出的**飛球當中，形成Poorly/Under(打到球的下緣)、Poorly/Weak(軟弱擊球)**兩種**不良擊球的比率**，結果會發現**Carlos Santana擊出不營養飛球的比率同樣是2015年以來最低的**。
 
   
-
-軟弱飛球比率(Poorly/Under、Poorly/Weak)
-
-2015
-
-65.9%
-
-2016
-
-69.5%
-
-2017
-
-65.5%
-
-2018
-
-65.3%
-
-**2019**
-
-**61.5%**
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td><br></td><td class="has-text-align-center" data-align="center"> 軟弱飛球比率(Poorly/Under、Poorly/Weak) </td></tr><tr><td>2015</td><td class="has-text-align-center" data-align="center"> 65.9% </td></tr><tr><td>2016</td><td class="has-text-align-center" data-align="center"> 69.5% </td></tr><tr><td>2017</td><td class="has-text-align-center" data-align="center"> 65.5% </td></tr><tr><td>2018</td><td class="has-text-align-center" data-align="center"> 65.3% </td></tr><tr><td><strong>2019</strong></td><td class="has-text-align-center" data-align="center"> <strong>61.5%</strong> </td></tr></tbody></table></figure>
 
 總而言之，Carlos Santana確實**下修了自己的擊球仰角，同時很有可能改變了過去的擊球點**，讓自己擊出去的高飛球變得更扎實了。
 
@@ -92,42 +45,11 @@ wRC+
 **強勁的滾地球比較容易穿越內野防線**，而果不其然，今年Carlos Santana**整體的擊球初速都是增加的，其中速度增加最多的就是滾地球。**
 
  
-
-滾地球擊球初速
-
-2018
-
-87.5 mph
-
-2019
-
-**92.0 mph**
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td>滾地球擊球初速</td></tr><tr><td>2018</td><td>87.5 mph</td></tr><tr><td>2019</td><td><strong>92.0 mph</strong></td></tr></tbody></table></figure>
 
 **滾地球快還沒有用，重點還要能找到防守空隙穿越出去，而這其實一直是Santana的罩門，因為他是聯盟最會被佈陣的打者之一**，今年當他站左打時，被佈陣的比率是79.5%，排名全聯盟第15名；去年的被佈陣率甚至高達85.5%，高居全聯盟第4。於是，**他今年的滾地球拉打率大幅下降，其中很大的可能原因就是為了要突破佈陣，再搭配今年提升的滾地球擊球速度，讓修正打擊仰角帶來的滾地球傷害減低到最小。**
 
- 
-
-**拉打率**
-
-中間方向率
-
-推打率
-
-2018
-
-**59.9%**
-
-30.5%
-
-9.6%
-
-2019
-
-**48.9%**
-
-41.8%
-
-9.3%
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>拉打率</strong></td><td>中間方向率</td><td>推打率</td></tr><tr><td>2018</td><td><strong>59.9%</strong></td><td>30.5%</td><td>9.6%</td></tr><tr><td>2019</td><td><strong>48.9%</strong></td><td>41.8%</td><td>9.3%</td></tr></tbody></table></figure>
 
 **打擊姿勢改變**
 
@@ -135,11 +57,15 @@ FanGraphs專欄作家Jake Mailhot 6/13也曾經評論過Carlos Santana今年的�
 
 **2018年的Carlos Santana**
 
-[via Gfycat](https://gfycat.com/alarmedplumpkudu-baseball)
+<div style="position:relative; padding-bottom:calc(56.00% + 44px)"><iframe allowfullscreen="" frameborder="0" height="100%" scrolling="no" src="https://gfycat.com/ifr/AlarmedPlumpKudu" style="left:0; position:absolute; top:0" width="100%"></iframe></div>
+
+<p><a href="https://gfycat.com/alarmedplumpkudu-baseball">via Gfycat</a></p>
 
 **2019年的Carlos Santana**
 
-[via Gfycat](https://gfycat.com/impressionablethornybelugawhale-cleveland-indians-miami-marlins-baseball)
+<div style="position:relative; padding-bottom:calc(56.00% + 44px)"><iframe allowfullscreen="" frameborder="0" height="100%" scrolling="no" src="https://gfycat.com/ifr/ImpressionableThornyBelugawhale" style="left:0; position:absolute; top:0" width="100%"></iframe></div>
+
+<p><a href="https://gfycat.com/impressionablethornybelugawhale-cleveland-indians-miami-marlins-baseball">via Gfycat</a></p>
 
 第一張GIF是2018時的Carlos Santana，第二張則是2019年的。
 

@@ -9,11 +9,13 @@ date: 2019-08-23 09:50:13
 
 盜壘是棒球比賽中重要的戰術，也是攻守方之間的爾虞我詐。對跑者來說，觀察投球動作，準確判斷離壘距離，起跑時機，當二壘手提早一步接到傳球時，該如何滑壘才能減低自己出局的機率，每一個環節都是成就盜壘的關鍵，也是一場賭注；對投捕來說，盜壘是他們的夢靨，他們不能白白地讓跑者進壘，使盡各種心思遏止跑壘者的企圖。尤其在比分接近的比賽，盜壘戰術更是讓人心跳加速。
 
+![](https://i.imgur.com/co3kG5V.jpg)
+
 <!-- more -->
 
 提到一代盜壘宗師，就會讓人想起**1980年代的Rickey Henderson**，1980年是他生涯第一個完整賽季，當年他就**跑出了驚人的100盜**，1982年更是跑出了**大聯盟史上第二多的130盜**。他的總盜壘次數更毫無意外是史上最多的，以1406次盜壘遠遠超越第二名的938盜。讓我們來回顧他的精彩片段：
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/LkvsGVQ7DKY' frameborder='0' allowfullscreen></iframe></div>
 
 然而，你知道曾經盛行多時的盜壘，**近幾年來次數逐漸地在下滑**嗎？
 
@@ -31,7 +33,7 @@ date: 2019-08-23 09:50:13
 
 應該不用我說大家都知道，近幾年來聯盟全壘打的數量不斷攀升，甚至有不少球員懷疑大聯盟改用了彈力球來讓球飛得更遠，比賽更有可看性。撇開禁藥年代不看，我們直接來看近十年來的聯盟全壘打總數成長曲線：
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-1-4.png)
+![](https://i.imgur.com/IShKI0r.png)
 
 2010~2019大聯盟總全壘打數
 
@@ -47,13 +49,13 @@ date: 2019-08-23 09:50:13
 
 伴隨全壘打革命而來的，是聯盟投手的**三振率也不斷地提升**，因為打者的目的**不再是讓球棒碰到球，而是把球擊得強勁**，即便會造成揮棒軌跡變大而更容易揮棒落空。我們可以來看看Contact這個數據，Contact代表打者碰到球的能力，因此Contact%愈低代表打者愈碰不到球，也就能會造就更多三振。**近十年打者的被三振率不斷上升，而Contact%不斷在下降**。以上的情況，都在在說明打者要從壘包上回來得分，**與其等待安打的出現，或是期待場內球的推進，不如直接把小白球轟出場外**，也使得盜壘不再那麼重要。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-3-1.png)
+![](https://i.imgur.com/gqFWYyg.png)
 
-大聯盟近十年打者被K%
+<ins>大聯盟近十年打者被K%</ins>
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-2-5.png)
+![](https://i.imgur.com/36vVphF.png)
 
-大聯盟近十年來打者Contact%
+<ins>大聯盟近十年來打者Contact%</ins>
 
 **盜壘對比賽的影響力**
 
@@ -87,7 +89,7 @@ _小補充：當然有些讀者可能會懷疑如果全聯盟的盜壘價值同�
 
 **單季所有球員的wSB標準差愈大，代表盜壘的價值愈高；單季所有球員的wSB標準差愈小，代表盜壘的價值變小了。**於是，我們來看看近10年來的wSB標準差變化。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-4.png)
+![](https://i.imgur.com/nZOtYCm.png)
 
 可以發現**近10年來標準差一直有下降的趨勢**。在圖中我同時放上了盜壘盛行的1980年數據做比較。可以發現1980當年wSB的標準差真的很高，代表**當年盜壘對比賽的影響，比現在要大得很多**！
 
@@ -95,7 +97,7 @@ _小補充：當然有些讀者可能會懷疑如果全聯盟的盜壘價值同�
 
 就像前面所提到的，「具有盜壘能力」可以從很多面向影響場上的比賽，比方增加投手的壓力，並創造好的打擊機會。而且在現今科技的輔助下，很多盜壘的數據和情報都能在第一時間讓球隊判斷當下是不是一個好的盜壘時機，並使得**盜壘成功率逐漸上升**。因此與其說盜壘不重要，不如說**在正確的時機下，給適當的球員盜壘變得愈來愈重要了。**
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-5.png)
+![](https://i.imgur.com/RfHbGep.png)
 
 **總結**
 

@@ -9,15 +9,17 @@ date: 2020-02-16 21:08:02
 
 生涯六度入選明星賽，曾經拿下國聯年度MVP，並六次票選進入聯盟年度MVP前十名的紅人隊老大哥Joey Votto，他在場上聞名遐邇的除了對自家球迷超級貼心，卻對他隊球迷不怎麼友善的個人特色，他那驚人的打擊實力、如人體K-Zone般的選球眼，和律己甚嚴的個性，造就了他至今非凡的成就。
 
+![](https://i.imgur.com/bPIKSxC.jpg)
+
 <!-- more -->
 
 Joey Votto和球迷交換球衣
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ivu0bgwqOec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Joey Votto 假裝丟界外球給費城人球迷
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GsSD6wNuJCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 然而，應該不少人注意到，去年Votto的打擊數據急速下滑，若撇開沒打滿整季的年份，**Votto已經自2018年起連續兩年全壘打產量沒來到2字頭**，打擊率是生涯新低的0.261，**wRC+ 101也只是勉強維持在聯盟平均**。不少人都質疑這和Votto的年紀有關，畢竟去年球季開始前，Votto已經悄悄步入35歲了，這樣的成績以能力退化來解釋一點也不為過。
 
@@ -25,21 +27,21 @@ Joey Votto 假裝丟界外球給費城人球迷
 
 儘管如此，從直覺來看，如果**Votto只是單純因年齡造成的能力退化，那主要受到影響的應該是他的power或擊球品質，他那精準的選球眼不應該會受到太大影響**，可是去年Votto的被保送率同樣是2009年以來的新低，也讓我相當好奇。以下是Votto生涯逐年的被保送率折線圖：
 
-![](http://medcytw.com/wp-content/uploads/2020/02/圖片-1.png)
+![](https://i.imgur.com/XTR9TsZ.png)
 
 今年Joey Votto的**被保送率只有12.5%**，雖然相較聯盟平均還是高出許多，但對以選球著稱的Votto來說，仍然是很顯著的衰退。
 
 深入分析Votto近年來的本壘紀律板，去年Votto 在 **O-contact % (能碰到好球帶外的球的比率)，和 Chase Contact % (與O-contact %類似，一樣是能碰到好球帶外的球的比率)，都有顯著的下滑**，代表Votto不再能有效破壞好球帶的球，另外他的 **Whiff % (揮空率)也是2016以來的新高**，不過**Votto的 Z-contact % (能碰到好球帶內的球的比率) 一樣維持在高水準**，意思是落在好球帶內的球，Votto仍然可以掌握得很好。
 
-![](http://medcytw.com/wp-content/uploads/2020/02/圖片-2.png)
+![](https://i.imgur.com/37LHLWt.png)
 
 Joey Votto 歷年 O-contact %
 
-![](http://medcytw.com/wp-content/uploads/2020/02/圖片-4.png)
+![](https://i.imgur.com/jPf4bmQ.png)
 
 Joey Votto 歷年 Chase Contact %
 
-![](http://medcytw.com/wp-content/uploads/2020/02/圖片-3.png)
+![](https://i.imgur.com/et0fblD.png)
 
 Joey Votto 歷年 Z-contact %
 
@@ -47,7 +49,7 @@ Joey Votto 歷年 Z-contact %
 
 另外，**Votto去年對於壞球的揮棒率也是近年來最高的**，雖然同樣遙遙優於聯盟平均，但是相較於去年，上升了將近5個百分點。
 
-![](http://medcytw.com/wp-content/uploads/2020/02/圖片-5.png)
+![](https://i.imgur.com/V7UDmqP.png)
 
 ## Votto的自我調整
 
@@ -63,33 +65,14 @@ Joey Votto 歷年 Z-contact %
 
 因為自從8月之後，Votto的被保送率可以說是恢復到了過往的水準，八、九月的被保送率分別為15.0%、17.2%。
 
-**月份**
-
-**被保送率**
-
-3/4月
-
-13.6%
-
-5月
-
-9.2%
-
-6月
-
-13.0%
-
-7月
-
-8.2%
-
-**8月**
-
-**15.0%**
-
-**9/10月**
-
-**17.2%**
+| **月份**       | **被保送率**  |
+| ---------- | --------- |
+| 3/4月      | 13.6%     |
+| 5月        | 9.2%      |
+| 6月        | 13.0%     |
+| 7月        | 8.2%      |
+| **8月**    | **15.0%** |
+| **9/10月** | **17.2%** |
 
 ## **擊球品質也跟著變好了？**
 
@@ -97,21 +80,10 @@ Joey Votto 歷年 Z-contact %
 
  
 
-**擊球初速**
-
-**飛球飛行距離**
-
-**上半季(07/17以前)**
-
-87.5 mph
-
-310英尺
-
-**下半季(07/18以後)**
-
-90.9 mph
-
-322英尺
+|                   | 擊球初速 | 飛球飛行距離 |
+| ----------------- | -------- | ------------ |
+| 上半季(07/17以前) | 87.5 mph | 310英尺      |
+| 下半季(07/18以後) | 90.9 mph | 322英尺      |
 
 ## **總結**
 

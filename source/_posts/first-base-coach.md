@@ -12,6 +12,8 @@ date: 2019-09-20 16:25:53
 1.  當出現很接近的play時，一壘指導教練會不管三七二十一，果斷地比出safe。
 2.  當打者上到一壘時，指導教練會幫忙遞手套、護具。
 
+![](https://i.imgur.com/YOGlp9D.jpg)
+
 <!-- more -->
 
 等等！這些好像都是不是什麼專業的教練工作，我隨便找個球僮來做就行啦。除此之外，一壘指導教練會被關注的時刻，好像就只剩下躲強襲球時逗趣的畫面了(誤
@@ -20,7 +22,7 @@ date: 2019-09-20 16:25:53
 
 根據大聯盟的官網簡介，一壘指導教練的工作是**傳遞教練的暗號給打者和跑者、協助指示適當的盜壘時間、或是在投手牽制的時候提醒跑者**，另外一壘教練在每一次投球前都必須**站在一壘後方指定的格子內，等到球被打出去之後才能離開指定格子**。
 
-![](http://medcytw.com/wp-content/uploads/2019/11/圖片-1.png)
+![](https://i.imgur.com/fASjGdV.png)
 
 這樣聽起來實在有點抽象，傳遞暗號還滿好理解的，但什麼是指示盜壘時間、提醒牽制等工作呢？具體要如何執行呢?
 
@@ -48,7 +50,7 @@ date: 2019-09-20 16:25:53
 
 2009年小熊隊的Milton Bradley在二出局的之後把剛接殺到的飛球丟向球迷，直接奉送雙城隊分數；Joey Votto在一壘刺殺打者之後，直接小碎步向了休息區；就連Ichiro Suzuki也曾經在外野接殺飛球之後緩緩地步向休息區，過了好幾秒才發現自己鑄下大錯。事實上，Youtube有整整一部10分鐘的剪輯片段紀錄了各個記錯出局數的時刻。這代表即便是大聯盟的球員，記錯出局數雖然不常見，但也並非罕見。
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/fUtG-fXfKnI' frameborder='0' allowfullscreen></iframe></div>
 
 指導教練的工作就在於此，不論是一壘或三壘的指導教練，他們都會**不時和跑者交頭接耳**，提醒他們**現在出局數是多少，應該要採取什麼戰術**。比如說：兩人出局的情況，教練就會說「只要打者把球打出去，就儘管使勁地跑」；或是只有一人出局時，教練會提醒球員該怎麼樣避免雙殺。
 

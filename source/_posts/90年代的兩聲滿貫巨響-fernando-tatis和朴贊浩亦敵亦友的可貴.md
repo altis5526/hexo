@@ -11,9 +11,11 @@ date: 2020-08-21 16:35:59
 
 我想大家都曾經聽過強打者在單局擊出兩支全壘打的例子。對筆者來說，最記憶猶新的就是A-Rod在2009球季的最後那場比賽，同一個半局為球隊貢獻了一支三分砲和滿貫砲，不僅締造了個人第二次單局雙響砲的紀錄，更是戲劇性地因為這兩支全壘打，延續了他連續12年30轟、100分打點的紀錄！
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+![](https://i.imgur.com/GdTTcYa.png)
 
 <!-- more -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rOo9tLjtjz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 單局擊出兩支全壘打的例子雖然已經令人印象深刻，但大家聽過有人不僅單局雙響砲，而且兩支都是滿貫砲的嗎？這位締造驚人紀錄的傳奇不是別人，就是教士隊游擊大物新秀Fernando Tatis jr.的老爸Fernando Tatis，而面對他的苦主，是亞洲球迷再熟悉不過的朴贊浩。
 
@@ -29,7 +31,7 @@ date: 2020-08-21 16:35:59
 
 這樣的執教方式也許聽起來很苛刻，不過Davey Johnson可是帶領過球隊拿下3次世界大賽冠軍、獲得2次年度最佳總教練，更是2012年率領華盛頓國民隊拿下1981年以來（包含前身蒙特婁博覽會隊時期）第一次分區冠軍的名教頭。
 
-![](http://medcytw.com/wp-content/uploads/2020/08/93794226_356782668614953_6830270895802548224_n-1024x681.jpg)
+![](https://i.imgur.com/oMx9QEt.jpg)
 
 從那之後，Tatis的發展並不是太好，其實1999年就算是他的生涯年了，當年他打出了34支全壘打、107分打點，此後全壘打不曾再超過20支，打擊率也是持續探底，他在紅雀隊只再待了一年，之後就轉去了蒙特婁博覽會，2010年在大都會結束了他的職業生涯。在大聯盟留下了0.265打擊率、448分打點、6.3 WAR的成績。
 

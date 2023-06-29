@@ -11,9 +11,11 @@ date: 2019-08-02 16:20:43
 
 不知道大家會不會像我一樣，每次在關鍵時刻看著投手勇敢地與打者用快速直球對決時，總是會興奮地血脈噴張，目不轉睛 XD
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+![](https://i.imgur.com/xMraHDS.jpg)
 
-回顧：Max Scherzer帶鼻傷上陣，卻投出近年最快速球
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://streamable.com/m/statcast-scherzer-nose-heaters' frameborder='0' allowfullscreen></iframe></div>
+
+<ins>回顧：Max Scherzer帶鼻傷上陣，卻投出近年最快速球</ins>
 
 大聯盟投手每年**使用比例最高**的球種就是**令人血脈噴張的快速球**，而多投一點快速球也是繼承已久的棒球觀念。然而，近五年來全聯盟投手快速球的使用比例逐漸下滑，**從2015年的57.7%下降到今年的52.6%**，為什麼會這樣呢？如果仔細看看打者打快速球的進階數據，就會發現無論是傳統數據的打擊率，或是wOBA，**打者打得最好的球種，就是投手最喜歡投的快速球**(表一)
 
@@ -23,27 +25,7 @@ date: 2019-08-02 16:20:43
 
   
 
-快速球
-
-慢速球(變速球、指叉球等)
-
-變化球
-
-被打擊率
-
-**0.275**
-
-0.229
-
-0.221
-
-wOBA
-
-**0.354**
-
-0.284
-
-0.278
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td><br></td><td class="has-text-align-center" data-align="center"> 快速球</td><td class="has-text-align-center" data-align="center"> 慢速球(變速球、指叉球等) </td><td class="has-text-align-center" data-align="center"> 變化球 </td></tr><tr><td>被打擊率</td><td class="has-text-align-center" data-align="center"><strong>0.275</strong></td><td class="has-text-align-center" data-align="center">0.229</td><td class="has-text-align-center" data-align="center"> 0.221 </td></tr><tr><td>wOBA</td><td class="has-text-align-center" data-align="center"><strong>0.354</strong></td><td class="has-text-align-center" data-align="center">0.284</td><td class="has-text-align-center" data-align="center"> 0.278 </td></tr></tbody></table></figure>
 
 你可能會認為這樣的比較不夠公平，因為慢速球和變化球本來就是引誘型的球種，所以不常出現在好球帶，而快速球會投進好球帶搶好球數，所以打者打快速球當然打得比較好呀！
 
@@ -53,27 +35,7 @@ wOBA
 
  
 
-快速球
-
-慢速球(變速球、指叉球等)
-
-變化球
-
-被打擊率
-
-**0.302**
-
-0.271
-
-0.279
-
-wOBA
-
-**0.350**
-
-0.320
-
-0.325
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td class="has-text-align-center" data-align="center">快速球</td><td class="has-text-align-center" data-align="center">慢速球(變速球、指叉球等)</td><td class="has-text-align-center" data-align="center">變化球</td></tr><tr><td>被打擊率</td><td class="has-text-align-center" data-align="center"><strong>0.302</strong></td><td class="has-text-align-center" data-align="center">0.271</td><td class="has-text-align-center" data-align="center">0.279</td></tr><tr><td>wOBA</td><td class="has-text-align-center" data-align="center"><strong>0.350</strong></td><td class="has-text-align-center" data-align="center">0.320</td><td class="has-text-align-center" data-align="center">0.325</td></tr></tbody></table></figure>
 
 就如上圖所示，**快速球的被打擊成績一樣還是海放其他兩種球種**，這顯示即便**球都落在好球帶裡面，快速球還是比較好打**，這樣的數據也可能影響了大聯盟各球隊的配球策略：既然快速球對打者來說這麼好打，那我幹嘛還要一直投快速球。
 
@@ -83,7 +45,7 @@ wOBA
 
 於是，2017年整個賽季，洋基隊的快速球使用比率是**全大聯盟最低的44.9%(圖一)**，比第二名印地安人的48.3%還少了3.4個百分點，結果當年洋基隊的投手群表現如何呢？還真不賴，**不論ERA或FIP(只看全壘打、三振、保送、觸身球的調整版ERA)，洋基隊都排行全聯盟第五**。  
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片4.png)
+![](https://i.imgur.com/h2xLGUo.png)
 
 圖一
 
@@ -91,7 +53,7 @@ wOBA
 
 事實上，洋基隊自從2017年以來又重新提高了快速球的使用比例，由2017年的44.9%，上升到今年的52.3%，排名後退到大聯盟第15名，這或許說明了**他們球隊降低快速球比率的策略可能不是那麼有效**。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-8.png)
+![](https://i.imgur.com/KnOGmD7.png)
 
 圖二：CC Sabathia逐年配球比例  
 (藍色箭頭指的位置顯示2017年四縫線快速球的使用率驟降)
@@ -102,7 +64,7 @@ wOBA
 
 大約自從2015年以來，Charlie Morton就**逐年減少自己最常使用的伸卡球比例**，**今年甚至將曲球當作主要球種(圖三)**。原因很簡單：因為從**進階數據來看，Sinker從來就不是他最好的球路**(表三)。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-7-1.png)
+![](https://i.imgur.com/sJsvnet.png)
 
 圖三：Charlie Morton逐年各球種用球比例  
 (橘色線是伸卡球，天空藍是曲球)
@@ -110,83 +72,11 @@ wOBA
   
  
 
-被打擊率
-
-WOBA
-
-2015
-
-伸卡球
-
-**0.317**
-
-**0.361**
-
-曲球
-
-0.144
-
-0.224
-
-2016
-
-伸卡球
-
-**0.316**
-
-**0.350**
-
-曲球
-
-0.053
-
-0.046
-
-2017
-
-伸卡球
-
-**0.302**
-
-**0.373**
-
-曲球
-
-0.114
-
-0.176
-
-2018
-
-伸卡球
-
-**0.272**
-
-**0.340**
-
-曲球
-
-0.135
-
-0.212
-
-2019
-
-伸卡球
-
-**0.317**
-
-**0.365**
-
-曲球
-
-0.134
-
-0.160
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td><br>&nbsp;</td><td></td><td class="has-text-align-center" data-align="center"> 被打擊率 </td><td class="has-text-align-center" data-align="center"> WOBA </td></tr><tr><td>2015</td><td>伸卡球</td><td class="has-text-align-center" data-align="center"><strong>0.317</strong></td><td class="has-text-align-center" data-align="center"> <strong>0.361</strong> </td></tr><tr><td></td><td>曲球 </td><td class="has-text-align-center" data-align="center">0.144 </td><td class="has-text-align-center" data-align="center"> 0.224 </td></tr><tr><td>2016</td><td>伸卡球</td><td class="has-text-align-center" data-align="center"><strong>0.316</strong></td><td class="has-text-align-center" data-align="center"> <strong>0.350</strong> </td></tr><tr><td></td><td>曲球 </td><td class="has-text-align-center" data-align="center">0.053 </td><td class="has-text-align-center" data-align="center"> 0.046 </td></tr><tr><td>2017</td><td>伸卡球</td><td class="has-text-align-center" data-align="center"><strong>0.302</strong></td><td class="has-text-align-center" data-align="center"> <strong>0.373</strong> </td></tr><tr><td></td><td>曲球 </td><td class="has-text-align-center" data-align="center">0.114 </td><td class="has-text-align-center" data-align="center"> 0.176 </td></tr><tr><td>2018</td><td>伸卡球</td><td class="has-text-align-center" data-align="center"><strong>0.272</strong></td><td class="has-text-align-center" data-align="center"> <strong>0.340</strong> </td></tr><tr><td></td><td>曲球 </td><td class="has-text-align-center" data-align="center">0.135 </td><td class="has-text-align-center" data-align="center"> 0.212 </td></tr><tr><td>2019</td><td>伸卡球</td><td class="has-text-align-center" data-align="center"><strong>0.317</strong></td><td class="has-text-align-center" data-align="center"> <strong>0.365</strong> </td></tr><tr><td></td><td>曲球 </td><td class="has-text-align-center" data-align="center">0.134 </td><td class="has-text-align-center" data-align="center"> 0.160 </td></tr></tbody></table></figure>
 
 有趣的是，2015年那年**正好是Statcast正式啟用**的那年，或許Morton也看到了相關的進階數據，並決定開始減少伸卡球的使用比例。在這段期間，Charlie Morton每年的成績都持續進步，**防禦率從2015的4.81下降到今年的2.78**，另外一個很大的改變是Charlie Morton的**三振能力**，2015年以前，他沒有一年的K/9值(每9局的三振數)超過9，但在那之後，他每年的K/9值都不斷進步，**今年來到生涯新高的10.92！**(圖四)
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-9.png)
+![](https://i.imgur.com/4e7wNpY.png)
 
 圖四：自從2015年後，Charlie Morton的K/9逐漸上升，ERA逐年下降
 
@@ -194,7 +84,7 @@ WOBA
 
 前面提到的都是個案，但我也想知道綜觀而言，**快速球使用率的下降，到底能不能提升投手的表現**。因此我分析了2018/2019各球員的快速球使用率差別與FIP差別的關係(圖五)
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-10.png)
+![](https://i.imgur.com/Xtbl6Y3.png)
 
 圖五
 
@@ -204,7 +94,7 @@ WOBA
 
 另外我們也提供圖五的迴歸統計數據給各位(圖六，有興趣的可以看看)，雖然R值和R平方值不大，但是P值相當小，代表**上述紅字的模型是相當可能存在的。**
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-11.png)
+![](https://i.imgur.com/RAgl5zx.png)
 
 圖六
 
@@ -212,35 +102,7 @@ WOBA
 
  
 
-**2018 平均FIP**
-
-**2019平均 FIP**
-
-**相差**
-
-**聯盟前二十名減少使用快速球的投手**
-
-4.148
-
-4.150
-
-**增加0.002**
-
-**聯盟前二十名增加使用快速球的投手**
-
-3.92
-
-4.41
-
-**增加0.49**
-
-**全聯盟平均**
-
-**4.15**
-
-**4.50**
-
-**增加0.35**
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>2018 平均FIP</strong></td><td><strong>2019平均 FIP</strong></td><td><strong>相差</strong></td></tr><tr><td><strong>聯盟前二十名減少使用快速球的投手</strong></td><td>4.148</td><td>4.150</td><td><strong>增加0.002</strong></td></tr><tr><td><strong>聯盟前二十名增加使用快速球的投手</strong></td><td>3.92</td><td>4.41</td><td><strong>增加0.49</strong></td></tr><tr><td><strong>全聯盟平均</strong></td><td><strong>4.15</strong></td><td><strong>4.50</strong></td><td><strong>增加0.35</strong></td></tr></tbody></table></figure>
 
 於是上述的分析告訴了我們，**綜觀而言減少使用快速球，似乎可以讓投手成績變好**。而**這個結果也解釋了聯盟減少使用快速球的趨勢。**
 

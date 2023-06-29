@@ -11,18 +11,20 @@ date: 2019-09-18 21:11:41
 
 事實上，野手上來接替投手投球，從過去難得一見的奇景，慢慢地轉變成了棒球場上的日常。根據USA SPORTS TODAY統計，野手投球的比賽場數已經從2010年的9場，上升到2018年的65場，到今年美國時間8/21為止，全大聯盟已經有78場野手投球的比賽。
 
+![](https://i.imgur.com/4DUXws6.jpg)
+
 <!-- more -->
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-1.png)
+![](https://i.imgur.com/XW4EzJo.png)
 
 2010~2019野手逐年投球場次  
 (版權問題，此為筆者電繪之仿原圖示意圖)
 
 野手投球愈來愈頻繁的原因其實不難想像，因為現今大聯盟的牛棚投手各司其職，常常投沒幾個人次就會下場休息，所以消耗量愈來愈大，再加上先發投手的投球局數愈來愈短，2010年大聯盟的先發投手還可以投到平均6局，今年卻只剩下5.2局，只要比賽中間有哪位投手出狀況，很快就會將牛棚戰力消耗殆盡。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-2.png)
+![](https://i.imgur.com/1URyvaM.png)
 
-2010~2019先發投手逐年投球局數
+*2010~2019先發投手逐年投球局數*
 
 今年美國時間8/16號，洋基隊以5-19的懸殊差距輸給克里夫蘭印地安人隊，這場比賽洋基隊採用假先發Chad Green，結果他只投了0.1局就被爆打5分退場，隨後接替的投手繼續不留情地被印地安人痛毆，第八局之後，洋基總教練Aaron Boone派上一壘新人Mike Ford上來投球，花了42球才終於結束比賽。賽後Aaron Boone這麼說道：
 
@@ -48,7 +50,7 @@ Aaron Boone向記者們提出了「提前結束比賽」制度的想法，他認
 
 > 我從來就沒有因此感到痠痛。丟那些55mph的慢速球並不會對我的身體造成太大負荷。
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/BGHTr5wG5d0' frameborder='0' allowfullscreen></iframe></div>
 
 ## **我的看法**
 
@@ -58,7 +60,7 @@ Aaron Boone向記者們提出了「提前結束比賽」制度的想法，他認
 
 當然投球本來就不是野手的例行工作。客觀而言，野手投球時確實比較容易因為姿勢不良或出力點不對而造成受傷，這絕對不會是球團或球迷樂見的，所以期待未來大聯盟慢慢地調整制度，讓野手能夠在安全的前提下，繼續為球隊貢獻勝利！
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.mlb.com/video/share/ichiro-gets-the-itch-to-pitch-c518811183?t=most-popular' frameborder='0' allowfullscreen></iframe></div>
 
 主要參考資料：
 

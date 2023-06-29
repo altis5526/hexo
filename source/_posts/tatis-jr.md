@@ -9,9 +9,11 @@ date: 2019-06-21 14:41:15
 
 教士隊農場備受期待的新星，Fernando Tatis Jr. 在今年季前全聯盟新秀排名上穩坐榜眼，僅次於被認為是打擊怪物的Vladimir Guerrero Jr.，這兩位聯盟排名一、二的新秀也先後被升上大聯盟。時至今日半個球季過去了，Fernando Tatis Jr. 打出了超高水準的成績，在**僅僅66場比賽當中，他打出了16發全壘打、41分打點、外加14次的盜壘，打擊三圍是.331/.392/.599，wRC+高達154。**在全聯盟250個打席以上的打者，**Tatis Jr.的wRC+高居第五名**，在他前面的人都是現今大聯盟的怪物級打者(圖一)。照這樣的效率，要在球季結束之前挑戰30轟/20盜以上的成績絕對有機會。
 
+![](https://i.imgur.com/ZVPRDxV.jpg)
+
 <!-- more -->
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-1-1-1024x301.jpg)
+![](https://i.imgur.com/x2ENjVo.jpg)
 
 圖一
 
@@ -27,7 +29,7 @@ date: 2019-06-21 14:41:15
 
 根據Fangraph的數據顯示，在250個打席以上的打者，你們猜猜看誰的BABIP最高？Fernando Tatis Jr.，**他以.421的BABIP冠居打聯盟**。(圖二)
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-2-2.jpg)
+![](https://i.imgur.com/XZLt9bj.jpg)
 
 圖二
 
@@ -53,11 +55,11 @@ date: 2019-06-21 14:41:15
 
 首先是**擊球初速和擊球仰角**，這兩項指標可以合併成一個綜合指標：**扎實擊球率(Barrel%)**。所謂扎實擊球是**根據電腦系統統計出來，在特定初速和仰角的情況，有.500以上的打擊率和1.500以上長打率的擊球**(圖三)。而扎實擊球率，就是**扎實擊球數/擊球事件(batted ball events)**所得到的比率。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-3-2.jpg)
+![](https://i.imgur.com/6vmavKD.jpg)
 
 我們可以看到，在有100次以上擊球事件的323名打者中，**Fernando Tatis Jr.的扎實擊球率排名第42**，算是相當不錯的成績，但感覺沒有好到讓他的BABIP那麼高。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-8-1024x330.jpg)
+![](https://i.imgur.com/Ruowcv4.jpg)
 
 圖四
 
@@ -67,41 +69,22 @@ date: 2019-06-21 14:41:15
 
  
 
-拉打
-
-中間方向
-
-推打
-
-Fernando Tatis Jr.
-
-41.2%
-
-34.7%
-
-24.1%
-
-全聯盟
-
-40.5%
-
-34.4%
-
-25.1%
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td>拉打</td><td>中間方向</td><td>推打</td></tr><tr><td>Fernando Tatis Jr.</td><td>41.2%</td><td>34.7%</td><td>24.1%</td></tr><tr><td>全聯盟</td><td>40.5%</td><td>34.4%</td><td>25.1%</td></tr></tbody></table></figure>
 
 第三是**跑壘速度**，但更精確地說會影響到BABIP數據的是**形成內野安打的機率**。因此我直接找出了聯盟250個打席以上打者的**內野安打率(內野安打數/滾地球數)**。Fernando Tatis Jr.以**14.4%的內野安打率高居第二(圖六)**，因此這樣高的內野安打率，很可能提升了BABIP的數值，讓我們覺得Fernando Tatis Jr.運氣很好。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-5-2.jpg)
+![](https://i.imgur.com/psig0vL.jpg)
 
 圖六
 
 為了證實我的想法，我利用Excel的資料分析功能，針對上述不同影響BABIP的變因進行**多變數迴歸分析。**由於打擊技巧我沒有找到明確量化的指標，因此只有**分析扎實擊球率、內野安打率這兩項變因和BABIP的相關程度**。以下我放上自己分析的結果，由於這裡的重點不是統計，所以沒興趣的人可以跳過以下兩張圖XD
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-6-1-1024x427.jpg)
+![](https://i.imgur.com/MFjG3E8.jpg)
 
 圖七：雖然此模型的R平方不大，但是內野安打率的P值很小，代表內野安打率可以解釋一部份的BABIP變異
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-7.jpg)
+![](https://i.imgur.com/w5xDgIx.jpg)
+
 
 圖八：根據圖七，因為扎實擊球率的P值過大，因此在迴歸模型中刪去了扎實擊球率，只留內野安打率當變數，並做出圖八。雖然相關係數不高，但是內野安打率愈高，BABIP也有愈高的趨勢
 
@@ -112,21 +95,12 @@ Fernando Tatis Jr.
 表一：Fernando Tatis Jr. 的HR/FB 與全大聯盟相較
 
  
-
-HR/FB
-
-Fernando Tatis Jr.
-
-29.1%
-
-全大聯盟
-
-15.2%
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td>HR/FB</td></tr><tr><td>Fernando Tatis Jr.</td><td>29.1%</td></tr><tr><td>全大聯盟</td><td>15.2%</td></tr></tbody></table></figure>
 
 Fernando Tatis Jr.**擊球初速是低於聯盟水準的，Hard-hit rate也大約只有聯盟平均而已**，在擊球品質普通的情況下，高HR/FB其實相當不尋常，推測還是運氣的成分居多。另外**偏高的三振率**也將會是這位教士隊大物新秀未來的隱憂。然而，打擊不會是這位明日之星唯一的價值，Fernando Tatis Jr.多次展現的精采守備和精準的跑壘反應，都為近年來總是在國聯西區敬陪末座的教士帶來新希望。
 
 最後附上令我印象深刻的內野高飛犧牲打 XD
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://streamable.com/m/tatis-out-at-home-is-overturned' frameborder='0' allowfullscreen></iframe></div>
 
 影片來源：MLB官網 資料來源：Fangraphs、https://baseballsavant.mlb.com、MLB官網封面來源：美聯社

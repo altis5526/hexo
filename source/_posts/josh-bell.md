@@ -9,19 +9,21 @@ date: 2019-08-14 10:54:40
 
 海盜隊今年度大爆發的Josh Bell，一度被認為是國聯MVP的熱門人選。在明星賽前他就繳出了**27支全壘打，84分打點，打擊三圍.302/.376/.648的成績**。Fangraphs作家Ben Clemens今年五月曾經撰文討論過他的成功：[Josh Bell, Now With Power](https://blogs.fangraphs.com/josh-bell-now-with-power/)，另外一篇運動視界的文章：[新任海賊王！Josh Bell 躍升頂尖重砲的秘密](https://www.sportsv.net/articles/63589)，也從多方面分析Josh Bell的轉變。
 
+![](https://i.imgur.com/YeeXpq7.jpg)
+
 <!-- more -->
 
 這兩篇文章都共同指出，今年Josh Bell的成功在於**打擊姿勢的改變**。在今年以前，Josh Bell的打擊姿勢被形容為：_inconsistent footwork(不一致的腳步動作)_，讓我們來看看2018年的他有多麼不一致。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-1-7.png)
+![](https://i.imgur.com/JFXHVfS.png)
 
-腳開開的
+<ins>腳開開的</ins>
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-.png)
+![](https://i.imgur.com/pvxtZXb.png)
 
 不要懷疑這是同一個人......
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-3-3.png)
+![](https://i.imgur.com/DYkmGsi.png)
 
 第二張圖的腳步稍微變形
 
@@ -29,29 +31,7 @@ Ben Clemens指出，今年的**Josh Bell找到了一個固定的站姿和腳步*
 
 然而，明星賽後的他表現判若兩人，明星賽後他在19場比賽，75個打擊機會中**沒有擊出任何全壘打**，這段期間他的**打擊三圍只剩下.188/.307/.250**
 
- 
-
-**打擊率**
-
-**上壘率**
-
-**長打率**
-
-**明星賽前**
-
-0.302
-
-0.376
-
-0.648
-
-**明星賽後**
-
-0.188
-
-0.307
-
-0.250
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>打擊率</strong></td><td><strong>上壘率</strong></td><td><strong>長打率</strong></td></tr><tr><td><strong>明星賽前</strong></td><td>0.302</td><td>0.376</td><td>0.648</td></tr><tr><td><strong>明星賽後</strong></td><td>0.188</td><td>0.307</td><td>0.250</td></tr></tbody></table></figure>
 
 所以Josh Bell的成績下滑，會是因為他固定好的打擊姿勢又跑掉了嗎？當然有可能，不過我從比賽影片當中沒有看到足夠的證據說明這件事。因此除了提出打擊姿勢走位的解釋之外，我還想和大家分享其他有趣的事情。
 
@@ -61,31 +41,17 @@ Ben Clemens指出，今年的**Josh Bell找到了一個固定的站姿和腳步*
 
  
 
-內野高飛球率(明星賽前)
-
-內野高飛球率(明星賽後)
-
-Josh Bell
-
-2.1%
-
-**16.7%**
-
-聯盟平均
-
-**9.8%**
-
-10.1%
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td>內野高飛球率(明星賽前)</td><td>內野高飛球率(明星賽後)</td></tr><tr><td>Josh Bell</td><td>2.1%</td><td><strong>16.7%</strong></td></tr><tr><td>聯盟平均</td><td><strong>9.8%</strong></td><td>10.1%</td></tr></tbody></table></figure>
 
 而且仔細分析Josh Bell右打和左打的數據，又會發現，Josh Bell**右打時的內野高飛球率**增加最明顯。上半季他當右打時，**一顆內野高飛球都沒打過**。但是**下半季**到截稿前，他在僅僅27個打擊機會當中就打出了3支內野高飛球。因此我想到會不會和**投手的投球策略**有關。
 
 雖然樣本數還不多，但我注意到下半季Josh Bell擔任右打時，**快速球類的球種(四縫線、伸卡球、卡特球)，都會往內角高的地方塞**；而**非快速球類的球種，則有往外角高進壘**的趨勢。這樣的改變可能大大影響了Josh Bell的擊球品質，甚至讓他開始擊出許多內野高飛球。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-4-2-1024x520.png)
+![](https://i.imgur.com/6crRRjO.png)
 
 **快速球種上下半季進壘點變化**
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-5-2-1024x509.png)
+![](https://i.imgur.com/VB6vqk8.png)
 
 **非快速球種上下半季進壘點變化**
 
@@ -97,7 +63,7 @@ Josh Bell
 
 是最常見的移防形式。因為內野手動的幅度較大，為了方便稱呼，以下文章會以**「大移防」**代稱。如果對文字沒有概念的話，就直接看看以下的移防圖吧！
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-6.png)
+![](https://i.imgur.com/uV0mURF.png)
 
 大移防範例
 
@@ -105,7 +71,7 @@ Josh Bell
 
 官網目前定義的「策略性移防」是指不像大移防的所有移防形態。常見的策略性移防有像是**二壘手移防到右外野的草皮上**、**游擊手往二壘方向移防**等。相對於大移防，我們以下說明的時候會稱策略性移防叫做**「小移防」**。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-7.png)
+![](https://i.imgur.com/u7EsuhD.png)
 
 小移防範例
 
@@ -121,135 +87,25 @@ Josh Bell
 
  
 
-**大移防次數**
-
-**小移防次數**
-
-**大移防/小移防**
-
-**2016**
-
-6
-
-10
-
-0.60
-
-**2017**
-
-13
-
-107
-
-0.12
-
-**2018**
-
-87
-
-117
-
-0.74
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>大移防次數</strong></td><td><strong>小移防次數</strong></td><td><strong>大移防/小移防</strong></td></tr><tr><td><strong>2016</strong></td><td>6</td><td>10</td><td>0.60</td></tr><tr><td><strong>2017</strong></td><td>13</td><td>107</td><td>0.12</td></tr><tr><td><strong>2018</strong></td><td>87</td><td>117</td><td>0.74</td></tr></tbody></table></figure>
 
 然而今年呢？
 
  
 
-**大移防次數**
-
-**小移防次數**
-
-**大移防/小移防**
-
-**2019上半季**
-
-95
-
-68
-
-1.39
-
-**2019下半季**
-
-30
-
-6
-
-5
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>大移防次數</strong></td><td><strong>小移防次數</strong></td><td><strong>大移防/小移防</strong></td></tr><tr><td><strong>2019上半季</strong></td><td>95</td><td>68</td><td>1.39</td></tr><tr><td><strong>2019下半季</strong></td><td>30</td><td>6</td><td>5</td></tr></tbody></table></figure>
 
 即使今年上半季大移防的次數就開始小移防多了，但**真正開始對Josh Bell大比例使用大移防，確實是在明星賽後**，我們可以看看我的逐月統計圖：
 
  
 
-大移防
-
-小移防
-
-大移防/小移防
-
-2019球季開始~四月底
-
-20
-
-22
-
-0.90
-
-五月
-
-31
-
-21
-
-1.48
-
-六月~明星賽前
-
-44
-
-25
-
-1.76
-
-**明星賽後**
-
-**30**
-
-**6**
-
-**5.00**
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td>大移防</td><td>小移防</td><td>大移防/小移防</td></tr><tr><td>2019球季開始~四月底</td><td>20</td><td>22</td><td>0.90</td></tr><tr><td>五月</td><td>31</td><td>21</td><td>1.48</td></tr><tr><td>六月~明星賽前</td><td>44</td><td>25</td><td>1.76</td></tr><tr><td><strong>明星賽後</strong></td><td><strong>30</strong></td><td><strong>6</strong></td><td><strong>5.00</strong></td></tr></tbody></table></figure>
 
 如果上述的改變還不夠說服你的話，我們可以再看看進階的攻擊數據wOBA，wOBA是加權上壘率，是衡量打擊成績不錯的一個進階數據。我們會發現大移防和小移防的wOBA有著明顯的差別：
 
  
 
-**大移防wOBA**
-
-**小移防wOBA**
-
-**2019球季開始~四月底**
-
-**0.243**
-
-0.377
-
-**五月**
-
-**0.423**
-
-0.763
-
-**六月~明星賽**
-
-**0.231**
-
-0.279
-
-**明星賽後**
-
-**0.175**
-
-0.465
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>大移防wOBA</strong></td><td><strong>小移防wOBA</strong></td></tr><tr><td><strong>2019球季開始~四月底</strong></td><td><strong>0.243</strong></td><td>0.377</td></tr><tr><td><strong>五月</strong></td><td><strong>0.423</strong></td><td>0.763</td></tr><tr><td><strong>六月~明星賽</strong></td><td><strong>0.231</strong></td><td>0.279</td></tr><tr><td><strong>明星賽後</strong></td><td><strong>0.175</strong></td><td>0.465</td></tr></tbody></table></figure>
 
 因此，各球隊在明星賽後對於Josh Bell移防策略的改變：**開始大量使用大移防，減少小移防數量**，也可能間接或直接地影響Josh Bell的打擊成績。
 
@@ -261,7 +117,7 @@ Josh Bell下半季的退化真的令人錯愕，筆者在此提出對於Josh Bel
 
 可怕的是，即便Josh Bell下半季打得那麼糟，但在截稿前，他還是**暫居打點王**的寶座，就知道他上半季的表現真的非常驚人。目前距離下半季結束還有將近兩個月，就讓我們看看這位新生代巨砲能不能再度重振雄威吧！
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://streamable.com/m/statcast-bell-s-454-ft-blast' frameborder='0' allowfullscreen></iframe></div>
 
 資料來源：
 

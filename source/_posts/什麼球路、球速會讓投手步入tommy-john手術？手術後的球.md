@@ -25,7 +25,7 @@ Tommy John手術其實是**「尺骨附屬韌帶重建術」**的俗稱，俗名
 
 「重建 (reconstruction)」其實是一個醫學專有名詞，由於**UCL的受傷不易修復或是縫合，所以通常只能用重建的方式直接做一條新的韌帶放進手臂**，而製作的方式可能就是找一條身體不常用到的肌肉來移植，比如說像前臂幾乎不會用到的一條肌肉--掌長肌（有些人甚至沒有這條肌肉）。以下這個影片用簡單的圖象深入淺出地說明了Tommy John手術的方式，有興趣的可以看看喔～
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6u0umafLue0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 然而，大家一定會很好奇，為什麼好端端地UCL會受傷斷裂？什麼樣的人比較容易會有UCL受傷，甚至需要動到Tommy John手術呢？Tommy John手術的預後又是如何，球員們能不能完全復原回到場上，是這篇文章想回答大家的問題。
 

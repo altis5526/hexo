@@ -9,67 +9,21 @@ date: 2019-08-25 14:17:03
 
 印地安人的Shane Bieber，來自美國大學名校UC Santa Barbara，2016年第四輪被印地安人選中。在小聯盟時期，他就展現了他**驚人的控球實力**，在高階1A時，曾經創下**單季BB%只有1.10**的紀錄，是2006年以來卡羅萊納聯盟最低的紀錄，換算成**BB/9的話是超殺的0.40**。Prospect Digest的球探報告也曾經有人把他和**小聯盟時期的Kyle Hendricks**相比，Shane Bieber的控球甚至技高一籌：
 
+![](https://i.imgur.com/E6Rwq5E.jpg)
+
 <!-- more -->
 
-局數
-
-K/9
-
-BB/9
-
-K/BB
-
-Shane Bieber (22歲)
-
-90.0
-
-8.20
-
-**0.40**
-
-**20.50**
-
-Kyle Hendricks (22歲)
-
-147.2
-
-7.50
-
-1.10
-
-6.83
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td>局數</td><td>K/9</td><td>BB/9</td><td>K/BB</td></tr><tr><td>Shane Bieber (22歲)</td><td>90.0</td><td>8.20</td><td><strong>0.40</strong></td><td><strong>20.50</strong></td></tr><tr><td>Kyle Hendricks (22歲)</td><td>147.2</td><td>7.50</td><td>1.10</td><td>6.83</td></tr></tbody></table></figure>
 
 今年是他大聯盟生涯第二年，他就投出了相當優異的成績。在168.1局的投球當中，他的防禦率是3.26，**WHIP是非常低的1.00**，在大聯盟**139名先發投手當中排名第6**，更有**多達205次三振**，同樣排名全大聯盟第6。根據FanGraphs的統計，他今年的**WAR值也排名在先發投手前10**，按照他今年的表現或許有機會在賽揚票選名單當中名列前茅，而他甚至拿下了今年明星賽的MVP。五月份的時候，他投出了**一場9局完封15K**的比賽，堪稱是今年的代表作：  
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://streamable.com/m/bieber-s-15-k-shutout' frameborder='0' allowfullscreen></iframe></div>
 
 不過我又要提出質疑了XD 如果仔細看今年Shane Bieber的一些進階數據，會覺得他好像不應該投出這麼好的成績：
 
 _再幫大家複習一下：強勁擊球率指的是擊出去的球初速在95mph以上的機率，wOBA則是加權上壘率，會針對不同打擊結果進行加權，可以更全面地評估打擊能力；而xwOBA則是根據擊球初速等數據進行修正的wOBA。_
 
- 
-
-**被擊球初速**
-
-**強勁擊球率**
-
-**xwOBA**
-
-**成績**
-
-90.3 mph
-
-42.6%
-
-0.292
-
-**聯盟排名**
-
-**倒數前8%**
-
-**倒數前9%**
-
-前66%
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>被擊球初速</strong></td><td><strong>強勁擊球率</strong></td><td><strong>xwOBA</strong></td></tr><tr><td><strong>成績</strong></td><td>90.3 mph</td><td>42.6%</td><td>0.292</td></tr><tr><td><strong>聯盟排名</strong></td><td><strong>倒數前8%</strong></td><td><strong>倒數前9%</strong></td><td>前66%</td></tr></tbody></table></figure>
 
 可以看到Shane Bieber球被打得非常強勁，甚至是聯盟倒數等級的。
 
@@ -79,61 +33,12 @@ _再幫大家複習一下：強勁擊球率指的是擊出去的球初速在95mp
 
 聯盟近年來有許多投手都開始發現其實很多打者都相當會打快速球，所以便開始**減少了快速球的使用比例**(對這個議題有興趣的人可以看看我的另一篇文章：[淺談「投手愛投，打者也愛打」的快速球怪象](https://www.sportsv.net/articles/65743))，而Shane Bieber也是其中一個例子：
 
-**2018配球比例**
-
-**2019配球比例**
-
-**四縫線快速球**
-
-**57.4%**
-
-**四縫線快速球**
-
-**43.6%**
-
-滑球
-
-22.7%
-
-滑球
-
-29.0%
-
-曲球
-
-16.0%
-
-曲球
-
-19.5%
-
-變速球
-
-3.8%
-
-變速球
-
-7.9%
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td><strong>2018配球比例</strong></td><td></td><td> <strong>2019配球比例</strong> </td><td></td></tr><tr><td><strong>四縫線快速球</strong></td><td><strong>57.4%</strong></td><td> <strong>四縫線快速球</strong> </td><td> <strong>43.6%</strong> </td></tr><tr><td>滑球</td><td>22.7%</td><td> 滑球 </td><td> 29.0% </td></tr><tr><td>曲球</td><td>16.0%</td><td> 曲球 </td><td> 19.5% </td></tr><tr><td>變速球</td><td>3.8%</td><td> 變速球 </td><td> 7.9% </td></tr></tbody></table></figure>
 
 可以看到他今年**大幅降低了快速球的比例，並提升了各類變化球的使用頻率**，使他能更完整地展現他各球種的威力。除了改變各球種配球比例以外，我也注意到Shane Bieber的**變化球握法**似乎有些改變，讓他今年的**轉速、球速都提高了**許多！
 
  
-
-2018 -> 2019球速
-
-2018 -> 2019轉速
-
-滑球
-
-83.7mph -> **84.9mph**
-
-2238 -> **2359**
-
-曲球
-
-80.0mph -> **82.4mph**
-
-2069 -> **2297**
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td>2018 -&gt; 2019球速</td><td>2018 -&gt; 2019轉速</td></tr><tr><td>滑球</td><td>83.7mph -&gt;<strong>&nbsp;84.9mph</strong></td><td>2238 -&gt;&nbsp;<strong>2359</strong></td></tr><tr><td>曲球</td><td>80.0mph -&gt;&nbsp;<strong>82.4mph</strong></td><td>2069 -&gt;&nbsp;<strong>2297</strong></td></tr></tbody></table></figure>
 
 **配球模式改變**
 
@@ -141,18 +46,18 @@ _再幫大家複習一下：強勁擊球率指的是擊出去的球初速在95mp
 
 不要急~讓我們看看下面這一張圖。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-1-3.png)
+![](https://i.imgur.com/MxKuAIK.png)
 
-2018~2019在不同球數下Shane Bieber的球種選擇  
-(紅色：四縫線快速球；黃色：滑球；紫色：曲球；綠色：變速球；橘色：伸卡球)
+<ins>2018~2019在不同球數下Shane Bieber的球種選擇  
+(紅色：四縫線快速球；黃色：滑球；紫色：曲球；綠色：變速球；橘色：伸卡球)</ins>
 
 左邊的那張圖是2018年Shane Bieber在不同球數下的配球比例，右邊則是2019年的。我想要請大家注意的是我用正方形框框圈起來的部分：
 
 我們會發現到這兩年Shane Bieber**在球數落後的時候配球模式有很大的不同**，**去年他在球數落後或滿球數(2-0、3-1、3-2)的時候幾乎都不敢投四縫線速球以外的球種，但是今年他卻開始大膽地使用他的各類變化球種**。所以我們想問的是，是**因為他的變化球控球變好了嗎？**
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-2-4-1024x449.png)
+![](https://i.imgur.com/6T0eqcK.png)
 
-2018~2019 Shane Bieber變化球進壘點
+<ins>2018~2019 Shane Bieber變化球進壘點</ins>
 
 Shane Bieber今年**把變化球種控進好球帶的機率是38.6%**，**比去年少了10.5個百分點**，由於Shane Bieber一直以來都是**控球很好的投手**，與其說他是控球變差，**不如說這是他故意所做的調整**，而這樣的調整，再配合上**前面提到他今年的滑球、曲球的球質改變**，也確實收到了成效。
 
@@ -167,28 +72,7 @@ Shane Bieber今年**把變化球種控進好球帶的機率是38.6%**，**比去
 根據FanGraphs的數據，今年打者面對Shane Bieber的**O-Swing%(壞球揮棒率)是34.7%**，比去年高出了將近4個百分點，也比**今年聯盟高出了3點多個百分點**；而打者今年能夠成功碰到壞球的機率**O-Contact%則是大幅下降**，比去年少了將近7個百分點，更是比聯盟平均低了10幾個百分點！
 
  
-
-O-Swing%(壞球揮棒率)
-
-O-Contact%(球棒能打到壞球的機率)
-
-2018
-
-30.9%
-
-57.2%
-
-2019
-
-**34.7%**
-
-**50.6%**
-
-**2019聯盟平均**
-
-**31.5%**
-
-**62.8%**
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td>O-Swing%(壞球揮棒率)</td><td>O-Contact%(球棒能打到壞球的機率)</td></tr><tr><td>2018</td><td>30.9%</td><td>57.2%</td></tr><tr><td>2019</td><td><strong>34.7%</strong></td><td><strong>50.6%</strong></td></tr><tr><td><strong>2019聯盟平均</strong></td><td><strong>31.5%</strong></td><td><strong>62.8%</strong></td></tr></tbody></table></figure>
 
 簡單來說重點就是，Shane Bieber有著**「即使不把球塞到好球帶，打者也會不自主揮棒，而且是揮空棒」**的能力！
 
@@ -202,7 +86,7 @@ O-Contact%(球棒能打到壞球的機率)
 
 最後我們再來看一段Shane Bieber明星賽三連K的影片吧！
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://streamable.com/m/bieber-k-s-side-in-5th' frameborder='0' allowfullscreen></iframe></div>
 
 資料來源：FanGraphs、MLB Savant、MLB官網、Prospect Digest [https://www.prospectdigest.com/2018/02/20/cleveland-indians-top-10-prospects-for-2018/](https://www.prospectdigest.com/2018/02/20/cleveland-indians-top-10-prospects-for-2018/)
 

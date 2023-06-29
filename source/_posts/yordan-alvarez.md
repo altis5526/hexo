@@ -9,9 +9,11 @@ date: 2019-08-14 10:57:25
 
 Yordan Alvarez，一個你可能曾經聽過但沒那麼熟悉的名字，已經儼然成為太空人暴力打線當中不可或缺的一環。2016年，太空人用中繼投手Josh Fields換到了這位當時19歲的年輕外野手Yordan Alvarez。對道奇來說，雖然Josh Fields後來為他們貢獻不少，但是2017年世界大賽第二戰，Josh Fields在延長賽第10局**連續被Jose Altuve、Carlos Correa擊出雙響砲**，成為了太空人奪冠的墊腳石。
 
+![](https://i.imgur.com/6kSzqaH.jpg)
+
 <!-- more -->
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/PSMeh1ZtT68?start=288' frameborder='0' allowfullscreen></iframe></div>
 
 對太空來說，他們不僅贏得了世界大賽，還撿到了Yordan Alvarez這一塊寶。
 
@@ -24,40 +26,7 @@ MLB Savant的網站這麼評價Yordan Alvarez：
 在進階數據的表現上，Yordan Alvarez的扎實擊球率(Barrel%，扎實擊球數/擊球事件，在我[前一次的文章有介紹過](https://www.sportsv.net/articles/65500))排名全大聯盟第9名，代表他的**擊球初速和擊球仰角相當出色**。另外我常使用的進階打擊數據**wOBA**(對於每種打擊結果如二壘打、三壘打、全壘打等，都給予不同權重相加，亦可換算衡量打者的得分貢獻)，Yordan Alvarez在150個打擊機會以上的大聯盟球員中**排名第1**！
 
  
-
-**打擊率**
-
-**長打率**
-
-**wRC+**
-
-**扎實擊球率**
-
-**wOBA**
-
-Yordan Alvarez
-
-0.348
-
-0.703
-
-196
-
-17.4%
-
-0.464
-
-排名
-
-**第1**
-
-**第2**
-
-**第1**
-
-**第9**
-
-**第1**
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>打擊率</strong></td><td><strong>長打率</strong></td><td><strong>wRC+</strong></td><td><strong>扎實擊球率</strong></td><td><strong>wOBA</strong></td></tr><tr><td>Yordan Alvarez</td><td>0.348</td><td>0.703</td><td>196</td><td>17.4%</td><td>0.464</td></tr><tr><td>排名</td><td><strong>第1</strong></td><td><strong>第2</strong></td><td><strong>第1</strong></td><td><strong>第9</strong></td><td><strong>第1</strong></td></tr></tbody></table></figure>
 
 根本全部都是菁英等級的數字，完全不像個菜鳥繳出的成績。即便他六月初才從大聯盟出發，但依照他的超火燙表現，又再加上太空人的戰績加持，想奪下今年競爭並不激烈的**美聯新人王寶座**並非完全不可能。
 
@@ -67,9 +36,9 @@ Yordan Alvarez
 
 於是我發現了Alvarez的「零」點！
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-1-6.png)
+![](https://i.imgur.com/kV9Jp7V.png)
 
-Yordan Alvarez面對不同球路的打擊率(捕手視角)
+<ins>Yordan Alvarez面對不同球路的打擊率(捕手視角)</ins>
 
 左打的Alvarez，今年在外角高的白色框框位置(以下文章簡稱**零點**)**還沒擊出過任何安打**！
 
@@ -81,11 +50,11 @@ Alvarez在零點面對過20顆球：
 2.  **只有擊出過飛球。**
 3.  **飛球平均仰角為44度！**
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-2-6.png)
+![](https://i.imgur.com/SGmdtdF.png)
 
 統計大聯盟**所有同樣擊球初速(86mph)和擊球仰角(44度)的球，也沒有任何一顆形成安打**！
 
-![](http://medcytw.com/wp-content/uploads/2019/12/field.png)
+![](https://i.imgur.com/Cpn4cO1.png)
 
 綜合上面三點，雖然樣本數不多，但目前Yordan Alvarez面對這個「零」點，最多只能**擊出不營養的外野高飛球**。
 
@@ -93,111 +62,30 @@ Alvarez在零點面對過20顆球：
 
 雖然從數據上來看，Alvarez反方向的擊球比例(25%)和聯盟(25.5%)平均差不多：
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-3-2.png)
+![](https://i.imgur.com/oqxrxIp.png)
 
 但是我們可以看到左打的Yordan Alvarez擊到**反方向左外野的球，很少形成安打**，甚至在**左外野幾乎沒有出現過全壘打**。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-4-1-1024x456.png)
+![](https://i.imgur.com/wB71VM3.png)
 
 一樣的問題又來了，擊不出安打可能只是運氣不好。所以我們可以利用**擊球初速**，來分析Alvarez分別擊到左、中、右半邊方向的擊球品質：
 
  
 
-**左邊方向(推打)**
-
-中間方向
-
-右邊方向(拉打)
-
-Yordan Alvarez
-
-**86.7mph**
-
-92.8mph
-
-94.8mph
-
-排名
-
-**第71名**
-
-第13名
-
-第8名
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>左邊方向(推打)</strong></td><td>中間方向</td><td>右邊方向(拉打)</td></tr><tr><td>Yordan Alvarez</td><td><strong>86.7mph</strong></td><td>92.8mph</td><td>94.8mph</td></tr><tr><td>排名</td><td><strong>第71名</strong></td><td>第13名</td><td>第8名</td></tr></tbody></table></figure>
 
 結果Alvarez推打到左半邊的擊球品質真的較其他兩者差，擊球初速只排名在全聯盟左打的第71名。不過我還好奇的一點是，**Alvarez推打的每一種擊球(高飛、平飛、滾地)品質都不好**嗎？
 
  
 
-**左外野(推打)**
-
-中外野
-
-右外野(拉打)
-
-Yordan Alvarez
-
-**89.4mph**
-
-94.9mph
-
-97.3mph
-
-排名
-
-**第60名**
-
-第33名
-
-第31名
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>左外野(推打)</strong></td><td>中外野</td><td>右外野(拉打)</td></tr><tr><td>Yordan Alvarez</td><td><strong>89.4mph</strong></td><td>94.9mph</td><td>97.3mph</td></tr><tr><td>排名</td><td><strong>第60名</strong></td><td>第33名</td><td>第31名</td></tr></tbody></table></figure>
 
  
 
-**左外野(推打)**
-
-中外野
-
-**右外野(拉打)**
-
-Yordan Alvarez
-
-**100mph**
-
-96.5mph
-
-**104.8mph**
-
-排名
-
-**第2名**
-
-第33名
-
-**第1名**
-
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>左外野(推打)</strong></td><td>中外野</td><td><strong>右外野(拉打)</strong></td></tr><tr><td>Yordan Alvarez</td><td><strong>100mph</strong></td><td>96.5mph</td><td><strong>104.8mph</strong></td></tr><tr><td>排名</td><td><strong>第2名</strong></td><td>第33名</td><td><strong>第1名</strong></td></tr></tbody></table></figure>
  
 
-**左邊方向****(推打)**
-
-中間方向
-
-右邊方向(拉打)
-
-Yordan Alvarez
-
-**73.3mph**
-
-85.9mph
-
-87.8mph
-
-排名
-
-**第120名**
-
-第93名
-
-第69名
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>左邊方向</strong><strong>(推打)</strong></td><td>中間方向</td><td>右邊方向(拉打)</td></tr><tr><td>Yordan Alvarez</td><td><strong>73.3mph</strong></td><td>85.9mph</td><td>87.8mph</td></tr><tr><td>排名</td><td><strong>第120名</strong></td><td>第93名</td><td>第69名</td></tr></tbody></table></figure>
 
 我們可以看到Alvarez的**左外野高飛球擊球初速不到90mph**，僅在左打者當中排名60名，而這也**解釋了為什麼他擊不出反方向全壘打**，然而值得注意的是，雖然樣本數不多，但Alvarez的**反方向平飛球打得超級好，因此Alvarez反方向打擊時最好不要把球拉高**。另外雖然Yordan Alvarez是飛球型態的強力左打者，本來就預期他的滾地球擊球初速都不會太好(因為他根本就想往天空打，是打不好才變滾地球)，但是在**左邊方向的滾地球，他的擊球初速實在特別差**，差到令人不能忽略。
 
@@ -205,7 +93,7 @@ Yordan Alvarez
 
 首先，針對**零點打不出安打**的弱點，未來必定會被投手加以利用。然而，根據進壘點wOBA的分布，**零點附近的區域wOBA都相當高**，因此若投手想要攻擊Yordan Alvarez的零點，**控球必須相當精準**，否則一有閃失，就會被Alvarez逮個正著。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-5-1.png)
+![](https://i.imgur.com/pbsSyEH.png)
 
 第二，筆者認為，Yordan Alvarez反方向的擊球比例雖然不低，但是**反方向高飛球和滾地球的擊球品質卻不佳**。在應對方面，**投手可以把球投在外角低的位置**，迫使Alvarez擊出反方向的軟弱滾地球。另外，利用這樣的特性，我認為不論**三壘手或的左外野手都可以稍微趨前防守**，一方面Yordan Alvarez的**滾地球初速不會太快**，趨前防守可以處理這類軟弱滾地球，另一方面Yordan Alvarez**不太會打反方向高飛球**，左外野比較不需要守太深；**面對強勁但沒有飛很遠的平飛球，趨前的左外野手也能更快完成守備**。
 
@@ -215,7 +103,7 @@ Yordan Alvarez
 
 最後，我要聲明我不是太空人黑哈哈XD 因為愈看愈覺得這篇看起來好像在為道奇情蒐(??? 所以我要讓大家看看Alvarez的英姿洗刷罪名。
 
-.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://streamable.com/m/statcast-alvarez-s-474-ft-homer' frameborder='0' allowfullscreen></iframe></div>
 
 資料來源：MLB savant、Fangraphs、Baseball Reference
 

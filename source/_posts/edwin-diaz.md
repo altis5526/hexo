@@ -9,6 +9,8 @@ date: 2019-08-16 11:01:42
 
 去年虎虎生風，用尾勁十足的直球和刁鑽滑球三振打者，並拿下高達57次救援成功的的救援王Edwin Diaz，今年的成績可說是慘不忍睹，在29次的救援機會當中，他就砸鍋了5次，而且**防禦率高達5.60，WHIP更是有1.47**，也就是說，今年的他平均每一局，就要被對手上壘1.47次。
 
+![](https://i.imgur.com/xG4gXlX.jpg)
+
 <!-- more -->
 
 雖然美國時間8/5時大都會總教練Mickey Callaway還信誓旦旦地說Edwin Diaz就是他們的終結者，可是事實上**大都會已經悄悄地不在關鍵時刻派Diaz上場了**，8/13和8/14總教練Callaway接受訪問時分別這麼說道：
@@ -21,29 +23,7 @@ date: 2019-08-16 11:01:42
 
 Edwin Diaz今年的大爆炸，大約是從5/29他對道奇0.1局就掉了4分的那場比賽開始。包括這場比賽在內，在那之後Edwin Diaz的防禦率是9.39，換句話說他平均每次上場都會掉分，另外WHIP是爆高的1.87。讓我們來看看Diaz在5/29前後表現的成績：
 
- 
-
-防禦率
-
-WHIP
-
-被打擊率
-
-5/28以前
-
-1.64
-
-1.05
-
-0.205
-
-5/29以後
-
-9.39
-
-1.87
-
-0.327
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td>防禦率</td><td>WHIP</td><td>被打擊率</td></tr><tr><td>5/28以前</td><td>1.64</td><td>1.05</td><td>0.205</td></tr><tr><td>5/29以後</td><td>9.39</td><td>1.87</td><td>0.327</td></tr></tbody></table></figure>
 
 **5/29之後發生了什麼事？**
 
@@ -54,54 +34,12 @@ WHIP
 事實是，Diaz從開季以來就一直跌跌撞撞，**開季投得好不過只是運氣好罷了**。仔細看進階數據會發現，根據Fangraphs統計，Diaz從開季到5/28的**強勁擊球率(Hard-hit rate)是52.1%**，**今年聯盟平均只有38.1%**。你可能會認為Diaz球速快，被擊出去的球本來就會因為物理反彈原理而速度比較快呀？但是讓我們看看Diaz**生涯前三季(2016-2018)的強勁擊球率：分別只有28.8%、32.5%、29.3%**，**今年初的被強勁擊球率完全不正常**，反而是5/29之後強勁擊球率微降到了43.3%。
 
  
-
-**強勁擊球率**
-
-2016
-
-28.8%
-
-2017
-
-32.5%
-
-2018
-
-29.3%
-
-**2019開季~5/28**
-
-**52.1%**
-
-**2019/5/29之後**
-
-**43.3%**
-
-**2019聯盟平均**
-
-**38.1%**
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>強勁擊球率</strong></td></tr><tr><td>2016</td><td>28.8%</td></tr><tr><td>2017</td><td>32.5%</td></tr><tr><td>2018</td><td>29.3%</td></tr><tr><td><strong>2019開季~5/28</strong></td><td><strong>52.1%</strong></td></tr><tr><td><strong>2019/5/29之後</strong></td><td><strong>43.3%</strong></td></tr><tr><td><strong>2019聯盟平均</strong></td><td><strong>38.1%</strong></td></tr></tbody></table></figure>
 
 我們再來看另外一項數據：**平飛球比率(計算方式：平飛球次數/把球擊進場內的次數)**。平飛球由於在空中停留時間不長，不易守備，而且通常也打得扎實，所以是**容易形成安打的擊球型態**。根據MLB savant的數據，今年**聯盟的平飛球比率是25.5%**，但是Edwin Diaz**在5/28以前的平飛球比率高達33.3%**。他在今年之前，**生涯的平飛球比率也只有21.6%**。5/29之後的平飛球比率其實也只有25%，反而比開季低。
 
  
-
-**平飛球比率**
-
-2016~2018
-
-21.6%
-
-**2019開季~5/28**
-
-**33.3%**
-
-2019/5/29之後
-
-25%
-
-**2019聯盟平均**
-
-**25.5%**
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>平飛球比率</strong></td></tr><tr><td>2016~2018</td><td>21.6%</td></tr><tr><td><strong>2019開季~5/28</strong></td><td><strong>33.3%</strong></td></tr><tr><td>2019/5/29之後</td><td>25%</td></tr><tr><td><strong>2019聯盟平均</strong></td><td><strong>25.5%</strong></td></tr></tbody></table></figure>
 
 那Edwin Diaz到底憑什麼開季投那麼好？答案很簡單：**殘壘率**
 
@@ -122,30 +60,13 @@ _小補充：或許有些熟稔進階數據的人反而會覺得BABIP高達0.462
 但是，今年Edwin Diaz**把球投進好球帶邊緣的能力變差了**。
 
  
-
-好球帶邊緣的球/所有的投球
-
-2016
-
-41.4%
-
-2017
-
-41.8%
-
-2018
-
-39.3%
-
-今年
-
-38.2%
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td>好球帶邊緣的球/所有的投球</td></tr><tr><td>2016</td><td>41.4%</td></tr><tr><td>2017</td><td>41.8%</td></tr><tr><td>2018</td><td>39.3%</td></tr><tr><td>今年</td><td>38.2%</td></tr></tbody></table></figure>
 
 我們可以從上表看到，今年Edwin Diaz**投進好球帶邊緣的比例是生涯新低，只有38.2%**，但是他把球投進好球帶的比率和去年幾乎是完全一樣的。換言之，**在好球率不變的情況下，Diaz沒辦法把球投到邊邊角角，而是往比較甜的位置塞**。
 
 另外，如果我們看Edwin Diaz誘使打者出棒的重要武器--**滑球的進壘位置**，就會發現今年Edwin Diaz把**滑球投進紅中的比率**也是生涯新高。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/Chart-1-1024x663.png)
+![](https://i.imgur.com/owGZeqW.png)
 
 圖一：Edwin Diaz 把滑球投進紅中的比率
 
@@ -163,11 +84,11 @@ Diaz最近一場出賽是美國時間8/11對上國民的比賽，那場比賽他
 
 Edwin Diaz的球種基本上就只有兩個：**四縫線快速球和滑球**。**由於球種本來就不多，出手點差異對Diaz更為重要**，若出手差異太大，很容易被事先猜球。我們來看看Diaz生涯逐年的四縫線/滑球出手點差異：
 
-![](http://medcytw.com/wp-content/uploads/2019/12/Chart-2-1024x663.jpeg)
+![](https://i.imgur.com/CbpG2EH.jpg)
 
 圖二：各球種出手點位置(垂直方向)
 
-![](http://medcytw.com/wp-content/uploads/2019/12/Chart-3-1024x655.jpeg)
+![](https://i.imgur.com/NXFMFXq.jpg)
 
 圖三：各球種出手點位置(水平方向)
 
@@ -186,74 +107,7 @@ Edwin Diaz的球種基本上就只有兩個：**四縫線快速球和滑球**。
 所以，我發現Edwin Diaz這幾年來似乎一直**嘗試把放球點往前延伸**，可能是為了增加自己的Perceived velocity，我們可以來看看Edwin Diaz每年各球種的平均實際球速和Perceived velocity，筆者也利用這兩項數據算出了**預估的放球點位置(零點是投手板前緣；+號代表放球點往前；-號表示放球點往後)**。
 
  
-
-**四縫線快速球實際球速**
-
-**四縫線快速球Perceived velocity**
-
-**四縫線快速球放球點**
-
-**滑球實際球速**
-
-**滑球Perceived velocity**
-
-**滑球放球點**
-
-2016
-
-97.0 mph
-
-97.13 mph
-
-+3.5cm
-
-87.3 mph
-
-86.99 mph
-
-\-6.6cm
-
-2017
-
-97.4 mph
-
-97.92 mph
-
-+9.8cm
-
-88.0 mph
-
-88.09 mph
-
-+1.9cm
-
-2018
-
-97.3 mph
-
-97.77 mph
-
-+8.8cm
-
-89.1 mph
-
-89.50 mph
-
-+8.2cm
-
-**2019**
-
-97.2 mph
-
-97.92 mph
-
-**+13.5cm**
-
-89.1 mph
-
-89.76 mph
-
-**+13.5cm**
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>&nbsp;</td><td><strong>四縫線快速球實際球速</strong></td><td><strong>四縫線快速球Perceived velocity</strong></td><td><strong>四縫線快速球放球點</strong></td><td><strong>滑球實際球速</strong></td><td><strong>滑球Perceived velocity</strong></td><td><strong>滑球放球點</strong></td></tr><tr><td>2016</td><td>97.0 mph</td><td>97.13 mph</td><td>+3.5cm</td><td>87.3 mph</td><td>86.99 mph</td><td>-6.6cm</td></tr><tr><td>2017</td><td>97.4 mph</td><td>97.92 mph</td><td>+9.8cm</td><td>88.0 mph</td><td>88.09 mph</td><td>+1.9cm</td></tr><tr><td>2018</td><td>97.3 mph</td><td>97.77 mph</td><td>+8.8cm</td><td>89.1 mph</td><td>89.50 mph</td><td>+8.2cm</td></tr><tr><td><strong>2019</strong></td><td>97.2 mph</td><td>97.92 mph</td><td><strong>+13.5cm</strong></td><td>89.1 mph</td><td>89.76 mph</td><td><strong>+13.5cm</strong></td></tr></tbody></table></figure>
 
 可以看到，**今年Edwin Diaz明顯把自己的放球點往前向本壘板的方向延伸，延伸長度達到13.5公分**，雖然提升了Perceived velocity(打者體感速度)，但是這樣的**投球姿勢改變，可能連帶影響到了控球，另外也可能使四縫線和滑球的出手位置改變**。
 
@@ -263,7 +117,7 @@ Edwin Diaz的球種基本上就只有兩個：**四縫線快速球和滑球**。
 
 根據以上的討論，Edwin Diaz今年的大爆炸可能**歸咎於他投球姿勢(放球點位置)的改變**，不論這是有意或是無意的，姿勢改變都讓**他今年的控球變糟，無法把球投進好球帶的邊緣**，但是硬塞中間又一直被狙擊，今年**強勁擊球率和平飛球比率的增加**都代表打者把球打得更扎實了。好消息是，雖然我沒有列出數據，不過Diaz的球質並沒有太大問題，**今年的球速或是轉速都依然保有以往水準，所以應該不是傷勢影響Diaz的投球機制**，希望教練團變更了他的投球任務後，能讓他好好調整自己，重拾終結者的光榮！
 
-![](http://medcytw.com/wp-content/uploads/2019/12/0630-1024x576.jpg)
+![](https://i.imgur.com/MbkXcTS.jpg)
 
 分析資料來源：
 

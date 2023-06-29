@@ -9,212 +9,27 @@ date: 2019-09-01 18:02:50
 
 美國時間8/11號，光芒隊的Ryan Yarbrough直到第八局都對水手隊展現無比的壓制力。前八局只用了89球，被打出3支安打，沒有保送，外加8個三振。全場球迷都在期待Yarbrough完美地結束比賽。果不其然，第9局Ryan Yarbrough又上來投手丘準備面對最後一局的打者。他只花了10個球就解決掉了聯盟快腿Mallex Smith和J.P. Crawford，在用球數99球的情況下要面對捕手Omar Narvaez。
 
+![](https://i.imgur.com/wa4qZJN.jpg)
+
 <!-- more -->
 
 於是，教練就走上來換投了。我們可以看看當時Ryan Yarbrough的反應有多無奈。
 
-[via Gfycat](https://gfycat.com/soupymiserlyduckling-sp-dt-2019-08-11t16-10-00-04-00)
+<div style="position:relative; padding-bottom:calc(56.25% + 44px)"><iframe allowfullscreen="" frameborder="0" height="100%" scrolling="no" src="https://gfycat.com/ifr/SoupyMiserlyDuckling" style="left:0; position:absolute; top:0" width="100%"></iframe></div>
+
+<p><a href="https://gfycat.com/soupymiserlyduckling-sp-dt-2019-08-11t16-10-00-04-00">via Gfycat</a></p>
 
 不論是誰都會有這個疑問，為什麼不讓Ryan Yarbrough繼續投，取得完投紀錄？
 
 Ryan Yarbrough當然不是孤單的，近年來有愈來愈多投手在挑戰完投紀錄的過程中被換掉，而且他們的用球數也不是到真的很多，像是**2018年8局13K只用了99球就被換掉的Max Scherzer**；**8局11K用了100球被換掉的Justin Verlander**；更有名的還有**2016年曾經投出7局完全比賽的Rich Hill**，卻在第八局一開場就被換下去休息！
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-1-2.png)
+![](https://i.imgur.com/D5FzR0s.png)
 
-1980~2019逐年完投次數統計
+<ins>1980~2019逐年完投次數統計</ins>
 
 可以看到自從1980年至今，每年達成完投的比賽愈來愈少，**從1980年時的856場，下降到去年的42場**。今年到目前為止已經有40場完投比賽，球季結束之前應該是不會創下比去年還低的紀錄，不過完投比賽愈來愈少的趨勢仍然是顯而易見的。
 
-年分
-
-美聯賽揚獎投手
-
-完投數
-
-年分
-
-美聯賽揚獎投手
-
-完投數
-
-1991
-
-Roger Clemens
-
-**13**
-
-2006
-
-Johan Santana
-
-**1**
-
-1992
-
-Dennis Eckersley(非先發投手)
-
-**0**
-
-2007
-
-CC Sabathia
-
-**4**
-
-1993
-
-Jack McDowell
-
-**10**
-
-2008
-
-Cliff Lee
-
-**4**
-
-1994
-
-David Cone
-
-**4**
-
-2009
-
-Zack Greinke
-
-**6**
-
-1995
-
-Randy Johnson
-
-**6**
-
-2010
-
-Félix Hernández
-
-**6**
-
-1996
-
-Pat Hentgen
-
-**10**
-
-2011
-
-Justin Verlander
-
-**4**
-
-1997
-
-Roger Clemens
-
-**9**
-
-2012
-
-David Price
-
-**2**
-
-1998
-
-Roger Clemens
-
-**5**
-
-2013
-
-Max Scherzer
-
-**0**
-
-1999
-
-Pedro Martinez
-
-**5**
-
-2014
-
-Corey Kluber
-
-**3**
-
-2000
-
-Pedro Martinez
-
-**7**
-
-2015
-
-Dallas Keuchel
-
-**3**
-
-2001
-
-Roger Clemens
-
-**0**
-
-2016
-
-Rick Porcello
-
-**3**
-
-2002
-
-Barry Zito
-
-**1**
-
-2017
-
-Corey Kluber
-
-**5**
-
-2003
-
-Roy Halladay
-
-**9**
-
-2018
-
-Blake Snell
-
-**0**
-
-2004
-
-Johan Santana
-
-**1**
-
- 
-
- 
-
- 
-
-2005
-
-Bartolo Colon
-
-**2**
-
- 
-
- 
-
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>年分</td><td>美聯賽揚獎投手</td><td>完投數</td><td>年分</td><td>美聯賽揚獎投手</td><td>完投數</td></tr><tr><td>1991</td><td>Roger Clemens</td><td><strong>13</strong></td><td>2006</td><td>Johan Santana</td><td><strong>1</strong></td></tr><tr><td>1992</td><td>Dennis Eckersley(非先發投手)</td><td><strong>0</strong></td><td>2007</td><td>CC Sabathia</td><td><strong>4</strong></td></tr><tr><td>1993</td><td>Jack McDowell</td><td><strong>10</strong></td><td>2008</td><td>Cliff Lee</td><td><strong>4</strong></td></tr><tr><td>1994</td><td>David Cone</td><td><strong>4</strong></td><td>2009</td><td>Zack Greinke</td><td><strong>6</strong></td></tr><tr><td>1995</td><td>Randy Johnson</td><td><strong>6</strong></td><td>2010</td><td>Félix Hernández</td><td><strong>6</strong></td></tr><tr><td>1996</td><td>Pat Hentgen</td><td><strong>10</strong></td><td>2011</td><td>Justin Verlander</td><td><strong>4</strong></td></tr><tr><td>1997</td><td>Roger Clemens</td><td><strong>9</strong></td><td>2012</td><td>David Price</td><td><strong>2</strong></td></tr><tr><td>1998</td><td>Roger Clemens</td><td><strong>5</strong></td><td>2013</td><td>Max Scherzer</td><td><strong>0</strong></td></tr><tr><td>1999</td><td>Pedro Martinez</td><td><strong>5</strong></td><td>2014</td><td>Corey Kluber</td><td><strong>3</strong></td></tr><tr><td>2000</td><td>Pedro Martinez</td><td><strong>7</strong></td><td>2015</td><td>Dallas Keuchel</td><td><strong>3</strong></td></tr><tr><td>2001</td><td>Roger Clemens</td><td><strong>0</strong></td><td>2016</td><td>Rick Porcello</td><td><strong>3</strong></td></tr><tr><td>2002</td><td>Barry Zito</td><td><strong>1</strong></td><td>2017</td><td>Corey Kluber</td><td><strong>5</strong></td></tr><tr><td>2003</td><td>Roy Halladay</td><td><strong>9</strong></td><td>2018</td><td>Blake Snell</td><td><strong>0</strong></td></tr><tr><td>2004</td><td>Johan Santana</td><td><strong>1</strong></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>2005</td><td>Bartolo Colon</td><td><strong>2</strong></td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table></figure>
  
 
 然而，這樣的現象不僅僅是聯盟平均的結果。我們來看看1990年到現在的美聯賽揚獎投手完投數，可以發現到**90年代的賽揚獎投手常常動輒就是雙位數以上的完投數**，**但2011年以後美聯賽揚獎投手的完投數就從來沒有超過5次了**。這代表完投數並不只是聯盟的趨勢，而且**即使是聯盟當中最強的投手，也不再有機會挑戰完投了。**
@@ -225,45 +40,7 @@ Bartolo Colon
 
 我們可以看看近幾年來的先發投手用球數95%百分位數是多少(**代表Top 5%的用球數多寡**)？
 
-**年分**
-
-**用球數95%百分位數**
-
-1988
-
-131
-
-1990
-
-127
-
-2000
-
-124
-
-2010
-
-117
-
-2014
-
-114
-
-2015
-
-112
-
-2016
-
-112
-
-2017
-
-111
-
-2018
-
-109
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td class="has-text-align-center" data-align="center"><strong>年分</strong></td><td class="has-text-align-center" data-align="center"><strong>用球數95%百分位數</strong></td></tr><tr><td class="has-text-align-center" data-align="center">1988</td><td class="has-text-align-center" data-align="center">131</td></tr><tr><td class="has-text-align-center" data-align="center">1990</td><td class="has-text-align-center" data-align="center">127</td></tr><tr><td class="has-text-align-center" data-align="center">2000</td><td class="has-text-align-center" data-align="center">124</td></tr><tr><td class="has-text-align-center" data-align="center">2010</td><td class="has-text-align-center" data-align="center">117</td></tr><tr><td class="has-text-align-center" data-align="center">2014</td><td class="has-text-align-center" data-align="center">114</td></tr><tr><td class="has-text-align-center" data-align="center">2015</td><td class="has-text-align-center" data-align="center">112</td></tr><tr><td class="has-text-align-center" data-align="center">2016</td><td class="has-text-align-center" data-align="center">112</td></tr><tr><td class="has-text-align-center" data-align="center">2017</td><td class="has-text-align-center" data-align="center">111</td></tr><tr><td class="has-text-align-center" data-align="center">2018</td><td class="has-text-align-center" data-align="center">109</td></tr></tbody></table></figure>
 
 簡單來說這張表的意思就是，**1988年先發投手用球數前5%的比賽當中，用球數是131，但是到了去年，用球數僅剩下109，下降了22顆球**。代表教練不再願意讓先發投手鞠躬盡瘁地燃燒手臂，一方面有可能是為了**季後賽做準備**，不希望重要的先發投手受傷，另一方面，近年來大聯盟**愈來愈重視牛棚**，如果進行簡單的數據比較就會發現，**從以前到現在，無論是ERA、K/9值、或是HR/9等數據，牛棚投手群都是優於先發投手的**，雖然先發、牛棚性質不同，不能把他們的能力相提並論，可是就贏得比賽的立場來看，既然牛棚有好的七、八局布局投手能有效解決比賽後段的出局數，那教練何必讓先發投手苦撐？
 
@@ -271,9 +48,9 @@ Bartolo Colon
 
 事實上，除了教練比較不敢操投手之外，投手自己的用球也相較30年前來得沒有效率。
 
-![](http://medcytw.com/wp-content/uploads/2019/12/圖片-2-3.png)
+![](https://i.imgur.com/FySKfQ4.png)
 
-逐年單局平均用球數
+<ins>逐年單局平均用球數</ins>
 
 以上是**每年投手平均的單局用球數**，1988年時，投手單局用球數只有14.97球，**1990更是來到了14.22球的低點。**然而，**今年目前的投手平均單局用球數，來到了16.92球**。換言之，今年投手光是每局，就比1990年的投手多花2.7球，別小看這兩三球的差距，以一個先發投手的責任局數5局來計算，這就代表**今年每場比賽我們的先發投手比30年前多花了13球左右**。這是將近一個局數用球的差別！
 
